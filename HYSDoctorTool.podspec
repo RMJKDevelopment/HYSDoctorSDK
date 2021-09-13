@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "HYSDoctorTool"
   spec.version      = "1.0.1"
-  spec.summary      = "A short description of HYSDoctorTool."
+  spec.summary      = "doctor online"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-      a description
+      a description for doctor online
                    DESC
 
   spec.homepage     = "https://github.com/RMJKDevelopment/HYSDoctorSDK.git"
@@ -94,8 +94,8 @@ Pod::Spec.new do |spec|
   # spec.source_files  = "Classes", "Classes/**/*.{h,m}"
   # spec.exclude_files = "Classes/Exclude"
 
-  spec.vendored_frameworks = 'HYSDoctorSDK/HYSDoctorSDK.framework/Frameworks/*.framework'
-  spec.resources = 'HYSDoctorSDK/HYSDoctorSDK.framework/*.bundle'
+  spec.vendored_frameworks = 'HYSDoctorSDK/*.framework'
+  spec.resources = 'HYSDoctorSDK/*.bundle'
 
   spec.frameworks = 'SystemConfiguration', 'MobileCoreServices', 'AVFoundation', 'CoreTelephony', 'VideoToolbox', 'AudioToolbox', 'CoreMedia'
   spec.libraries = 'z', 'sqlite3.0', 'c++', 'resolv.9'
