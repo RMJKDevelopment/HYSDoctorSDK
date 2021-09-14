@@ -53,7 +53,7 @@ Pod::Spec.new do |spec|
   #  profile URL.
   #
 
-  spec.author             = { "" => "" }
+  spec.author             = "RMJKDevelopment"
   # Or just: spec.author    = ""
   # spec.authors            = { "" => "" }
   # spec.social_media_url   = "https://twitter.com/"
@@ -64,7 +64,7 @@ Pod::Spec.new do |spec|
   #  the deployment target. You can optionally include the target after the platform.
   #
 
-  spec.platform     = :ios
+  # spec.platform     = :ios
   spec.platform     = :ios, "10.0"
 
   #  When using multiple platforms
@@ -93,12 +93,14 @@ Pod::Spec.new do |spec|
 
   # spec.source_files  = "Classes", "Classes/**/*.{h,m}"
   # spec.exclude_files = "Classes/Exclude"
+  s.subspec 'Base' do |base|
+      base.ios.vendored_frameworks = 'HYSDoctorSDK/*.framework', 'HYSDoctorSDK/HYSDoctorSDK.framework/*.framework'
+      base.resources = 'HYSDoctorSDK/HYSDoctorSDK.framework/*.bundle'
 
-  spec.vendored_frameworks = 'HYSDoctorSDK/*.framework'
-  spec.resources = 'HYSDoctorSDK/*.bundle'
-
-  spec.frameworks = 'SystemConfiguration', 'MobileCoreServices', 'AVFoundation', 'CoreTelephony', 'VideoToolbox', 'AudioToolbox', 'CoreMedia'
-  spec.libraries = 'z', 'sqlite3.0', 'c++', 'resolv.9'
+      base.frameworks = 'SystemConfiguration', 'MobileCoreServices', 'AVFoundation', 'CoreTelephony', 'VideoToolbox', 'AudioToolbox', 'CoreMedia'
+      base.libraries = 'z', 'sqlite3.0', 'c++', 'resolv.9'
+  end
+  
 
   # spec.public_header_files = "Classes/**/*.h"
 
