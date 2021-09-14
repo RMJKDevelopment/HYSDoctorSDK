@@ -93,7 +93,7 @@ Pod::Spec.new do |spec|
 
   # spec.source_files  = "Classes", "Classes/**/*.{h,m}"
   # spec.exclude_files = "Classes/Exclude"
-  spec.ios.vendored_frameworks = 'HYSDoctorSDK/*.framework', 'HYSDoctorSDK/HYSDoctorSDK.framework/*.framework'
+  spec.ios.vendored_frameworks = 'HYSDoctorSDK/*.framework', 'HYSDoctorSDK/HYSDoctorSDK.framework/Frameworks/*.framework'
   spec.resources = 'HYSDoctorSDK/HYSDoctorSDK.framework/*.bundle'
 
   spec.frameworks = 'SystemConfiguration', 'MobileCoreServices', 'AVFoundation', 'CoreTelephony', 'VideoToolbox', 'AudioToolbox', 'CoreMedia'

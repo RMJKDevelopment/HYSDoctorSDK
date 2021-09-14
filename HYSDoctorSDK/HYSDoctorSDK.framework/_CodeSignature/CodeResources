@@ -150,7 +150,7 @@
 		</data>
 		<key>Frameworks/HHDoctorSDK.framework/HHDoctorSDK</key>
 		<data>
-		BMmrKkjaX/BNhYxePilnXg4dHdw=
+		Vam9yC8wqqmUGb4KyzSLLAyb6B0=
 		</data>
 		<key>Frameworks/HHDoctorSDK.framework/HHMemLoadView.nib/objects-13.0+.nib</key>
 		<data>
@@ -926,7 +926,7 @@
 		</data>
 		<key>Frameworks/NIMAVChat.framework/NIMAVChat</key>
 		<data>
-		/4LnaoXVy6MJeo+xDMGJjNUe6Zw=
+		jB/y+hlVXyghJW4bBYjSzKJmDrg=
 		</data>
 		<key>Frameworks/NIMAVChat.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -938,7 +938,7 @@
 		</data>
 		<key>Frameworks/NIMSDK.framework/NIMSDK</key>
 		<data>
-		bssxJRLXUPsqP4Y1jWmBp3LiSpc=
+		/BXM3zkmKj09V1AZKnAuMNaSzkM=
 		</data>
 		<key>Frameworks/NIMSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -950,7 +950,7 @@
 		</data>
 		<key>Frameworks/NMC.framework/NMC</key>
 		<data>
-		fSe/oTqmB1KrZKf+ThgjkPqEpFk=
+		uRwKTYh4LWOqJM8q7WrgP6u9CjI=
 		</data>
 		<key>Frameworks/NMC.framework/NetEaseWEShader.metallib</key>
 		<data>
@@ -970,7 +970,7 @@
 		</data>
 		<key>Frameworks/NMCBasicModuleFramework.framework/NMCBasicModuleFramework</key>
 		<data>
-		okRDyc6jd5mbJofGjmDm2bUgNYQ=
+		RSOxKLQsliCYFATmK/FxEA3SUoU=
 		</data>
 		<key>Frameworks/NMCBasicModuleFramework.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -982,7 +982,7 @@
 		</data>
 		<key>Frameworks/SecurityKit.framework/SecurityKit</key>
 		<data>
-		FbvXNHadUDAzbqaxQdqefrPSHMU=
+		2Bm8j/S3ucW3fpoThEUpG0CEU38=
 		</data>
 		<key>Frameworks/SecurityKit.framework/SecurityKit.bundle/Info.plist</key>
 		<data>
@@ -1006,7 +1006,7 @@
 		</data>
 		<key>Frameworks/SecurityKit.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		hcrpgewIVH5JGaSNqSa+7XMsyI8=
+		blc6VfBIuLKq2RKTput37l2AofA=
 		</data>
 		<key>Frameworks/SecurityKit.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -1014,7 +1014,7 @@
 		</data>
 		<key>Frameworks/SecurityKit.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		X2AbnFeRRB9u5TfEae2GCSgKLHw=
+		x/9H9UITOeC+ei8k1/W6/7MQw+I=
 		</data>
 		<key>Frameworks/SecurityKit.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -1022,7 +1022,7 @@
 		</data>
 		<key>Frameworks/SecurityKit.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		y1/RQEWdN29nURlHppQ3VdXmmxo=
+		RkxFw3VvcV+R4b4rXl+L+MkD4os=
 		</data>
 		<key>Headers/HYSDoctor.h</key>
 		<data>
@@ -1479,11 +1479,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BMmrKkjaX/BNhYxePilnXg4dHdw=
+			Vam9yC8wqqmUGb4KyzSLLAyb6B0=
 			</data>
 			<key>hash2</key>
 			<data>
-			lZWgfKv+WYmORU08KC/i9J0GUL0oW8krJb+goLDz1ow=
+			C0LcrSMDln5F8/vwjnfOutk2gmJYYaEi1/JPqo0MgnA=
 			</data>
 		</dict>
 		<key>Frameworks/HHDoctorSDK.framework/HHMemLoadView.nib/objects-13.0+.nib</key>
@@ -3613,11 +3613,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/4LnaoXVy6MJeo+xDMGJjNUe6Zw=
+			jB/y+hlVXyghJW4bBYjSzKJmDrg=
 			</data>
 			<key>hash2</key>
 			<data>
-			ydrtaveflqfcd1dVGmcnXWgNLOMcxeZRz826qrZbr5c=
+			mij1rGONLDr9o7Ay6FEErG5/wrTPh6Bf7ppB3ENVlZE=
 			</data>
 		</dict>
 		<key>Frameworks/NIMAVChat.framework/_CodeSignature/CodeResources</key>
@@ -3646,11 +3646,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bssxJRLXUPsqP4Y1jWmBp3LiSpc=
+			/BXM3zkmKj09V1AZKnAuMNaSzkM=
 			</data>
 			<key>hash2</key>
 			<data>
-			MJMzN8EJG8bBgl8REvtso43MarJLabea9OF5uL/2bH0=
+			CwxLWdX1I0Zc4NUYgzhZDio4JFf8wjxrM0r1bGVbqg0=
 			</data>
 		</dict>
 		<key>Frameworks/NIMSDK.framework/_CodeSignature/CodeResources</key>
@@ -3679,11 +3679,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fSe/oTqmB1KrZKf+ThgjkPqEpFk=
+			uRwKTYh4LWOqJM8q7WrgP6u9CjI=
 			</data>
 			<key>hash2</key>
 			<data>
-			340CN1ptWfaskU+i9yqS7sSaMAcp2E9cd87j2cUpFtg=
+			jOw4F73oTf/wjm3WmaEVU/1Yb9ctGYxM9d8xLNHHkaI=
 			</data>
 		</dict>
 		<key>Frameworks/NMC.framework/NetEaseWEShader.metallib</key>
@@ -3734,11 +3734,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			okRDyc6jd5mbJofGjmDm2bUgNYQ=
+			RSOxKLQsliCYFATmK/FxEA3SUoU=
 			</data>
 			<key>hash2</key>
 			<data>
-			8xTHwT1tJL1GtUGs1DszkVZ+33rbt6FpjwXUk9/CnSM=
+			lY3CHburyocglo9PHnhkOY0SBov75vpnjd8tyXDW9c4=
 			</data>
 		</dict>
 		<key>Frameworks/NMCBasicModuleFramework.framework/_CodeSignature/CodeResources</key>
@@ -3767,11 +3767,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FbvXNHadUDAzbqaxQdqefrPSHMU=
+			2Bm8j/S3ucW3fpoThEUpG0CEU38=
 			</data>
 			<key>hash2</key>
 			<data>
-			S+Vz5n5AvAHptKIGEEKKPMVvCJKOosXGVHtBEkTYChE=
+			LssiiLr6RvRlyof8HbIQSka3ak+PZMFliDH+E78WIN8=
 			</data>
 		</dict>
 		<key>Frameworks/SecurityKit.framework/SecurityKit.bundle/Info.plist</key>
@@ -3833,11 +3833,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hcrpgewIVH5JGaSNqSa+7XMsyI8=
+			blc6VfBIuLKq2RKTput37l2AofA=
 			</data>
 			<key>hash2</key>
 			<data>
-			upDiF2SERgS84TY4jMcQGoUGn8ZrTLTXcZR4mNrLEMs=
+			TbpJbO+x5+0UGgEJ1I2Okc+jReKawAncyp+ATQU1m8A=
 			</data>
 		</dict>
 		<key>Frameworks/SecurityKit.framework/_CodeSignature/CodeRequirements</key>
@@ -3855,11 +3855,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X2AbnFeRRB9u5TfEae2GCSgKLHw=
+			x/9H9UITOeC+ei8k1/W6/7MQw+I=
 			</data>
 			<key>hash2</key>
 			<data>
-			YZycMK8vsl85b9mCV27DZnluzKmk7hVafomy31NVhqk=
+			6UgLTKizvqlcHemgnhKFrCiDzywJK36qD64XkpJi3Es=
 			</data>
 		</dict>
 		<key>Frameworks/SecurityKit.framework/_CodeSignature/CodeResources</key>
@@ -3877,11 +3877,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			y1/RQEWdN29nURlHppQ3VdXmmxo=
+			RkxFw3VvcV+R4b4rXl+L+MkD4os=
 			</data>
 			<key>hash2</key>
 			<data>
-			wdTSt+8mdzamJgYqj4m7fvlC4y47H6/0OnacXyGOBbw=
+			HtOK53Rv2N1nhjvsfFHdr62eGBcXiO4jh+rsas7aqMY=
 			</data>
 		</dict>
 		<key>Headers/HYSDoctor.h</key>
