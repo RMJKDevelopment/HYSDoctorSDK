@@ -93,13 +93,11 @@ Pod::Spec.new do |spec|
 
   # spec.source_files  = "Classes", "Classes/**/*.{h,m}"
   # spec.exclude_files = "Classes/Exclude"
-  spec.subspec 'Base' do |base|
-      base.ios.vendored_frameworks = 'HYSDoctorSDK/*.framework', 'HYSDoctorSDK/HYSDoctorSDK.framework/*.framework'
-      base.resources = 'HYSDoctorSDK/HYSDoctorSDK.framework/*.bundle'
+  spec.ios.vendored_frameworks = 'HYSDoctorSDK/*.framework', 'HYSDoctorSDK/HYSDoctorSDK.framework/*.framework'
+  spec.resources = 'HYSDoctorSDK/HYSDoctorSDK.framework/*.bundle'
 
-      base.frameworks = 'SystemConfiguration', 'MobileCoreServices', 'AVFoundation', 'CoreTelephony', 'VideoToolbox', 'AudioToolbox', 'CoreMedia'
-      base.libraries = 'z', 'sqlite3.0', 'c++', 'resolv.9'
-  end
+  spec.frameworks = 'SystemConfiguration', 'MobileCoreServices', 'AVFoundation', 'CoreTelephony', 'VideoToolbox', 'AudioToolbox', 'CoreMedia'
+  spec.libraries = 'z', 'sqlite3.0', 'c++', 'resolv.9'
   
 
   # spec.public_header_files = "Classes/**/*.h"
