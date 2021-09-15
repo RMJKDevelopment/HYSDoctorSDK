@@ -4,919 +4,919 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/HHDoctorSDK.framework/CMBadResView.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMBadResView.nib/objects-11.0+.nib</key>
 		<data>
 		3dXapNTnsFJ+x7D30b18jWP1GDU=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/CMBadResView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMBadResView.nib/objects-13.0+.nib</key>
 		<data>
 		YD6ZmIhgtiLF1InMTMwprL7tQw0=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/CMBadResView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMBadResView.nib/runtime.nib</key>
 		<data>
 		qyXVxraxw2tX8QUKNJnUb90T+0Y=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/CMGoodResView.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMGoodResView.nib/objects-11.0+.nib</key>
 		<data>
 		+7HhBIMDXCXPzv2B14ppdIPD9EU=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/CMGoodResView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMGoodResView.nib/objects-13.0+.nib</key>
 		<data>
 		Jy2nMBJxMU7qQN461Ek3jq57QHo=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/CMGoodResView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMGoodResView.nib/runtime.nib</key>
 		<data>
 		Tj8k9hFi9nrKdo/jK8wOpiWJGjE=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/CMQuesCell.nib/objects-12.3+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMQuesCell.nib/objects-12.3+.nib</key>
 		<data>
 		Gop+elCWEDNXdz9EEJP1DgZNrQw=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/CMQuesCell.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMQuesCell.nib/objects-13.0+.nib</key>
 		<data>
 		1AX6eZ8Uv3tuvZzmuE0yDR/Pk5o=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/CMQuesCell.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMQuesCell.nib/runtime.nib</key>
 		<data>
 		D3WR4fgbJGsHi9jxN7QVGgb688c=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/CMStarView.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMStarView.nib/objects-11.0+.nib</key>
 		<data>
 		dVGx8rcaH1CbAL+WpkljkdSNTkg=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/CMStarView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMStarView.nib/objects-13.0+.nib</key>
 		<data>
 		gkXWuNkqzbV11ZvupOMmWIgeMUg=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/CMStarView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMStarView.nib/runtime.nib</key>
 		<data>
 		dxm8VQ8ii+z1JvmIRhHi6Sqqe44=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/CMTouSuView.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMTouSuView.nib/objects-11.0+.nib</key>
 		<data>
 		V6V/X0dIpLU73GGjrBfx4ndDuU0=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/CMTouSuView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMTouSuView.nib/objects-13.0+.nib</key>
 		<data>
 		D4WpiQIhlE6qUUi7ICGXLUA34HE=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/CMTouSuView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMTouSuView.nib/runtime.nib</key>
 		<data>
 		7ee0iqXmEXt+Ygsb+itiLHTWyMY=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/CMTousuResView.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMTousuResView.nib/objects-11.0+.nib</key>
 		<data>
 		PQM8Ucj/WGoArMSP/ykW8xaqn7w=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/CMTousuResView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMTousuResView.nib/objects-13.0+.nib</key>
 		<data>
 		6gHN+g5jhuKQG/5ZQwndMJV7DpY=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/CMTousuResView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMTousuResView.nib/runtime.nib</key>
 		<data>
 		npk4CiTZv4G1YsjZK1qAnUAWf2I=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/ChangeMedicCount.storyboardc/Info.plist</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ChangeMedicCount.storyboardc/Info.plist</key>
 		<data>
 		wBUz6WwJ7GxPDKofxEUVgmo379c=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/ChangeMedicCount.storyboardc/UIViewController-ibJ-Ex-pPQ.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ChangeMedicCount.storyboardc/UIViewController-ibJ-Ex-pPQ.nib/objects-11.0+.nib</key>
 		<data>
 		m6xMh/Q49GoL8Kt0nQFhXIUro9o=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/ChangeMedicCount.storyboardc/UIViewController-ibJ-Ex-pPQ.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ChangeMedicCount.storyboardc/UIViewController-ibJ-Ex-pPQ.nib/objects-13.0+.nib</key>
 		<data>
 		TPow6zAXwwgdKJh+dygaZ3MZA6s=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/ChangeMedicCount.storyboardc/UIViewController-ibJ-Ex-pPQ.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ChangeMedicCount.storyboardc/UIViewController-ibJ-Ex-pPQ.nib/runtime.nib</key>
 		<data>
 		tDflff1dQSdq96eKBZnkXmdlNE0=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/ChangeMedicCount.storyboardc/ibJ-Ex-pPQ-view-1qo-zd-DBO.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ChangeMedicCount.storyboardc/ibJ-Ex-pPQ-view-1qo-zd-DBO.nib/objects-11.0+.nib</key>
 		<data>
 		aPcxQ63pI8Hd6M2d/ITwRXbOGmQ=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/ChangeMedicCount.storyboardc/ibJ-Ex-pPQ-view-1qo-zd-DBO.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ChangeMedicCount.storyboardc/ibJ-Ex-pPQ-view-1qo-zd-DBO.nib/objects-13.0+.nib</key>
 		<data>
 		H6JeTZFYRIV/mIlhkJw1cm4s11g=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/ChangeMedicCount.storyboardc/ibJ-Ex-pPQ-view-1qo-zd-DBO.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ChangeMedicCount.storyboardc/ibJ-Ex-pPQ-view-1qo-zd-DBO.nib/runtime.nib</key>
 		<data>
 		ftbf5h7xiFrk7F2+DzGWPtRcvvY=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/ControlView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ControlView.nib/objects-13.0+.nib</key>
 		<data>
 		lkZoDRroM0QeYctgyR3goyeGyPc=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/ControlView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ControlView.nib/runtime.nib</key>
 		<data>
 		KeJaa2ulDgtcjrC2zg4W1adgTEQ=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/DoctorIntroView.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/DoctorIntroView.nib/objects-11.0+.nib</key>
 		<data>
 		KBtdb1fN5D5OHlTyQGaux+nJmkA=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/DoctorIntroView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/DoctorIntroView.nib/objects-13.0+.nib</key>
 		<data>
 		LOi7ob1haWyXpELwzptf7OtAvsE=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/DoctorIntroView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/DoctorIntroView.nib/runtime.nib</key>
 		<data>
 		SeXKZNDfjDKiS5EX5KePjPVMf40=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/ExpandView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ExpandView.nib/objects-13.0+.nib</key>
 		<data>
 		sGRsKyddCeJIgNR6fKWIWAZsx6g=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/ExpandView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ExpandView.nib/runtime.nib</key>
 		<data>
 		CUMzCC/8hEityQR6/eTCu+xYScI=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HHCodeCellView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHCodeCellView.nib/objects-13.0+.nib</key>
 		<data>
 		p6Heo8YEYtCrbgQaTj+tScSnqqQ=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HHCodeCellView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHCodeCellView.nib/runtime.nib</key>
 		<data>
 		Uc5f6DzWjaWO7myXPbvMxCf7LPQ=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HHCodeView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHCodeView.nib/objects-13.0+.nib</key>
 		<data>
 		b2w1Goud4UpCFfzs22Xhj/cKEZ0=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HHCodeView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHCodeView.nib/runtime.nib</key>
 		<data>
 		UFq8BwEMukgqaB5wxppz9OOu6dc=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HHDoctorSDK</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHDoctorSDK</key>
 		<data>
-		Vam9yC8wqqmUGb4KyzSLLAyb6B0=
+		TMIgqrGO+X7ijd9zbUjIpBgomu8=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HHMemLoadView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHMemLoadView.nib/objects-13.0+.nib</key>
 		<data>
 		NOQvMAXgc9huKMDmqtOBErN9g80=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HHMemLoadView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHMemLoadView.nib/runtime.nib</key>
 		<data>
 		rIB7rivPlEjZv8+0xrddxGRgIxQ=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HHMultyVideoView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHMultyVideoView.nib/objects-13.0+.nib</key>
 		<data>
 		Z0fkCfwi7KlrUdmNxlzpt6OiT0Y=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HHMultyVideoView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHMultyVideoView.nib/runtime.nib</key>
 		<data>
 		dQQYUQmKe9v2JAZ1mDGdLY/O1sU=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HHPhoneView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHPhoneView.nib/objects-13.0+.nib</key>
 		<data>
 		zr72fUMcRZG2PfKs5HkEbFYQQs8=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HHPhoneView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHPhoneView.nib/runtime.nib</key>
 		<data>
 		rEgZ5juT6XJSxVP8RyAtHvG1SvQ=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HHSelectMemCell.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHSelectMemCell.nib/objects-13.0+.nib</key>
 		<data>
 		7hfHFy86qXMmreGscrYyuv7QBpw=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HHSelectMemCell.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHSelectMemCell.nib/runtime.nib</key>
 		<data>
 		6W2K3u55XVDMUoe1OGqG3ReUL5w=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HHSelectMemView.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHSelectMemView.nib/objects-11.0+.nib</key>
 		<data>
 		tGYygdnOLT/pl7T8+q6RXDz7HEU=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HHSelectMemView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHSelectMemView.nib/objects-13.0+.nib</key>
 		<data>
 		hgXsmb29wadR7kHfodzD96VS8/I=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HHSelectMemView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHSelectMemView.nib/runtime.nib</key>
 		<data>
 		mZx0uCl2b+3xXLyVqPW71UztRkY=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HHVideoView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHVideoView.nib/objects-13.0+.nib</key>
 		<data>
 		+E1MHh+WoASzRDnFbGaF7mKKvFY=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HHVideoView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHVideoView.nib/runtime.nib</key>
 		<data>
 		VP6vmTyWWogWzx1bFdaM5tMZ/iw=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/SDKConfig.plist</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/SDKConfig.plist</key>
 		<data>
 		cpeRPRH+nBO3Q4ex9rYng3F9wxk=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/addr_close@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/addr_close@2x.png</key>
 		<data>
 		w9VgdZdOw8fwI+9RYxaDNuJYJMk=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/addr_close@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/addr_close@3x.png</key>
 		<data>
 		KG0B4VSU3/xtqk3aleeJB49uUrg=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/back_app@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/back_app@3x.png</key>
 		<data>
 		PBZLn3W55rO4OpXeXPCXaQuE0ns=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/call_default@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/call_default@3x.png</key>
 		<data>
 		GDzBc4UsIY6ZYYV5XiSDI7z40HU=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/calling.mp3</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/calling.mp3</key>
 		<data>
 		JD8vtzNw2D6rUMt1B5btXF6GJ/I=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/camera_disable@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/camera_disable@3x.png</key>
 		<data>
 		GbB/WR7aKXsAoMWUSD+lqeatTqo=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/camera_flash_close@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/camera_flash_close@3x.png</key>
 		<data>
 		MlrRURqIE2WRt1xHAwC8mZT6GH8=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/camera_flash_normal@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/camera_flash_normal@3x.png</key>
 		<data>
 		DsHrPXmx1SrraGBH6uFngaQ5Jqs=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/chat9left.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/chat9left.png</key>
 		<data>
 		I5hzj2gBMVUB0nvYEKAz9moZVNE=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/chat_arrow.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/chat_arrow.png</key>
 		<data>
 		7ecpMyjauxxFKMUyAthB63jqNu8=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/chat_mask_b@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/chat_mask_b@3x.png</key>
 		<data>
 		yjeS8FoK3WknIjGHHfyArTCNwQQ=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/chat_mask_t@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/chat_mask_t@3x.png</key>
 		<data>
 		roN+ieID2bRvrKAXkLZtBCLZI4s=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/check_box_default@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/check_box_default@2x.png</key>
 		<data>
 		OzQEzJffHk3rpCO2RzovfpQG0dg=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/check_box_default@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/check_box_default@3x.png</key>
 		<data>
 		OzQEzJffHk3rpCO2RzovfpQG0dg=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/check_box_right@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/check_box_right@2x.png</key>
 		<data>
 		Suv3hunc8I8hoS11Y+vxHeSaY5o=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/check_box_right@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/check_box_right@3x.png</key>
 		<data>
 		FxdZjYDqQVeWTtSWqDOsIc+Tjcs=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/close_member@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/close_member@3x.png</key>
 		<data>
 		LoF+uOpbGbuhVUQ83GBKcyRON9o=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/cm_arrow_right@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/cm_arrow_right@2x.png</key>
 		<data>
 		JXNCYRZSm57r4K9aydJlVkKkuL8=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/cm_arrow_right@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/cm_arrow_right@3x.png</key>
 		<data>
 		ufZBKmtUVQ2VtZgxbKo0Rk+1jCA=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/cm_feedback@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/cm_feedback@2x.png</key>
 		<data>
 		7vXJIC8ElGAEkVkxxFTV2UWLf0Q=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/cm_feedback@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/cm_feedback@3x.png</key>
 		<data>
 		HWwtnxQCFJTPg8rd/Ui1FwIxPY0=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/coment_unhappy_s@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/coment_unhappy_s@2x.png</key>
 		<data>
 		aq+5vbFvX7jowB+/0mC+koaaZ/I=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/coment_unhappy_s@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/coment_unhappy_s@3x.png</key>
 		<data>
 		v+1C06QoCMPPhFQ3S9rkA0qOuy8=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/comment_happy@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/comment_happy@2x.png</key>
 		<data>
 		sazEeLS+IBvA+DzNwbH+7BF89vo=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/comment_happy@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/comment_happy@3x.png</key>
 		<data>
 		A5MQSzJ5TlYUwqWzr2Q04cRr0Lg=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/comment_happy_s@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/comment_happy_s@2x.png</key>
 		<data>
 		n6Ub8J02aDuePLM37CNiOr2qfv0=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/comment_happy_s@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/comment_happy_s@3x.png</key>
 		<data>
 		hUA6poozGqsDmrho4D2TwQj4K48=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/comment_unhappy@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/comment_unhappy@2x.png</key>
 		<data>
 		FLUucqgWdW+LIPurk5M6EhABfnQ=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/comment_unhappy@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/comment_unhappy@3x.png</key>
 		<data>
 		4pdMuCGVL85nysNznykXM3cuFmo=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/counter_back@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/counter_back@2x.png</key>
 		<data>
 		Vmsdnc0SsIfYLkxqr0HTlHYg+94=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/counter_back@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/counter_back@3x.png</key>
 		<data>
 		+xlAUoGc9bqxbFosfwlEWU05OOo=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/cus_shape@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/cus_shape@3x.png</key>
 		<data>
 		/2xReWBgnQVHAQkYSR5uN0i5RnE=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/default_icon@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/default_icon@3x.png</key>
 		<data>
 		G2g1azqfVJBqooY6317IDDw14Fc=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/delivery_logo2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/delivery_logo2x.png</key>
 		<data>
 		tLYtFitn0Z2GwnoKVBr/pjukM54=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/delivery_logo@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/delivery_logo@3x.png</key>
 		<data>
 		pfKvCm5e8tapAfUIIh3DeUESmGc=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/doctor_license@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/doctor_license@3x.png</key>
 		<data>
 		RVGDljNQYyzFkuAM6IfU1N4jOAs=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/doctor_license_highlight@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/doctor_license_highlight@3x.png</key>
 		<data>
 		rTSu2h6VylS3JFcBFC1D9AHSQyg=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hangUp.mp3</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hangUp.mp3</key>
 		<data>
 		kn4ylGfpNnJk6TQsff2KymOGpKY=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_accept_highlight@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_accept_highlight@3x.png</key>
 		<data>
 		aMZR1fPwRsf9XKuCVd/DeRO3yIw=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_accept_normal@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_accept_normal@3x.png</key>
 		<data>
 		0ykznEt8dHodvQUDDCNDo71CYaE=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_call_mask@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_call_mask@3x.png</key>
 		<data>
 		BjgHP+tFIwrv/6lOQAKR8sMy/0E=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_change_camera_highlight@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_change_camera_highlight@3x.png</key>
 		<data>
 		GbB/WR7aKXsAoMWUSD+lqeatTqo=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_change_camera_normal@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_change_camera_normal@3x.png</key>
 		<data>
 		rajy9CO81frWsOMsmacQg2jbczY=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_change_doctor@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_change_doctor@3x.png</key>
 		<data>
 		Ed3SnkDCwRSa93ULMdaBX+8Uqgk=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_change_voice_highlight@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_change_voice_highlight@3x.png</key>
 		<data>
 		WcwzcpqOGv2oU8JUJ3FwyLNfIiA=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_change_voice_normal@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_change_voice_normal@3x.png</key>
 		<data>
 		vHmnQenPoifSOrdQd409I1M4pnc=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_hangup_highlight@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_hangup_highlight@3x.png</key>
 		<data>
 		Rhr32i6/gCaPx+P5H9TI+558hDQ=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_hangup_normal@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_hangup_normal@3x.png</key>
 		<data>
 		+yeIu6T5I/8mkByOrP2HBd8mamA=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_icon_album@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_icon_album@2x.png</key>
 		<data>
 		WrE+r4Pn5AoW47Yuw9l0tOLVBvo=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_medic_graytip@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_medic_graytip@3x.png</key>
 		<data>
 		19VW9nzQNbda/yu5mJfpEwIuhmU=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_medic_medic_creat@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_medic_medic_creat@3x.png</key>
 		<data>
 		0SVzqhwUqBLVaQLRpdHyBCDOuQY=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_medic_redtip@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_medic_redtip@3x.png</key>
 		<data>
 		+ePRtClcOs/tuOBozlsXfSjXRl0=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_submitPhone@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_submitPhone@2x.png</key>
 		<data>
 		wykwzYN1ZBaWOlBmJ+64CMHxcjY=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_submitPhone@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_submitPhone@3x.png</key>
 		<data>
 		HtN0St6ZmTwGiTjkIGc/24+uK4I=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/home_new_checked@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/home_new_checked@3x.png</key>
 		<data>
 		uQ9Nr0/q3uI+UDcq4EWjFjNqKGI=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/home_new_nochecked@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/home_new_nochecked@3x.png</key>
 		<data>
 		YCMIHpimqF1jbzas+W0du8p7YJU=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hp_card_video_icon.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hp_card_video_icon.png</key>
 		<data>
 		egOYbzXtLspKzsq0ECvocf52wqE=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/icon_photo_premission@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/icon_photo_premission@2x.png</key>
 		<data>
 		S4P3u3pyprExOz1LtSw8IC2ApXY=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/icon_photo_premission@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/icon_photo_premission@3x.png</key>
 		<data>
 		sAHIFrX+bBMVH+POGHzvwXy0/aM=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/icon_setting_address@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/icon_setting_address@3x.png</key>
 		<data>
 		eVRFVpa6VbpeWfokTMV5OQ3YQsE=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/icon_setting_document@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/icon_setting_document@3x.png</key>
 		<data>
 		HPjCBKbz3WKdX2srpeeb3BI+9r8=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/icon_setting_invitecode@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/icon_setting_invitecode@3x.png</key>
 		<data>
 		v00nWI6Q4RCgYYi0BofEo/XQjqg=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/icon_setting_member@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/icon_setting_member@3x.png</key>
 		<data>
 		c9bLpS32gvma/selBTe0COGDrVc=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/icon_setting_order@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/icon_setting_order@3x.png</key>
 		<data>
 		zL7FWV4hIW6Kd2tjwyCXQvmepyE=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/icon_video@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/icon_video@3x.png</key>
 		<data>
 		JA1CHI5iqMtiGg2pI6F5ip0clg8=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/licence_normal@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/licence_normal@3x.png</key>
 		<data>
 		tLUcAINrdLOfzgzXXhsUikZy+Bw=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/license_default@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/license_default@3x.png</key>
 		<data>
 		lMddtIo7E2VUCSQ0IL7+kuqkAEM=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/me_arrow@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/me_arrow@3x.png</key>
 		<data>
 		9ZPeMV+3hB2jhIISZJ/4dVeXvFs=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/meet_disconnect@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/meet_disconnect@3x.png</key>
 		<data>
 		T+5X4DJWPZKc7cUXhlQHLHhWgPk=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/member@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/member@2x.png</key>
 		<data>
 		iauPiDt+azwBfkDXFYeflCUZdFg=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/member@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/member@3x.png</key>
 		<data>
 		/cJerGgs+1gaKkL8JbL0gqQ11Io=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/nim_expand_down@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/nim_expand_down@3x.png</key>
 		<data>
 		gG97K2zwwqLOGurU6aHZPDMtFF4=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/nim_expand_up@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/nim_expand_up@3x.png</key>
 		<data>
 		6RHN4UijhmoTwXMAcUjZ0jYQpdM=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/photo_picker.gif</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/photo_picker.gif</key>
 		<data>
 		uLOutHSgoe1KOp+ibD46u1D70YY=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/rate_normal@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/rate_normal@2x.png</key>
 		<data>
 		+zFXWmiMKQEXYw0CyOySIpXSzfs=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/rate_normal@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/rate_normal@3x.png</key>
 		<data>
 		KpZBidI4arozYDCuCyQ62xLoGD8=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/rate_select@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/rate_select@2x.png</key>
 		<data>
 		Ihen1+FKhLm/lxrva1EStYYuda4=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/rate_select@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/rate_select@3x.png</key>
 		<data>
 		Esi4n3Qi0otwzsUfDXDWaDsLffc=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/upload_fail@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/upload_fail@3x.png</key>
 		<data>
 		iGSn6PPM7EI4IeSZPeIPkUmU8ZM=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/voice_volume_1@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/voice_volume_1@3x.png</key>
 		<data>
 		ZbpZyYRq/5HqA3I3kTEuKH/hvJ8=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/voice_volume_2@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/voice_volume_2@3x.png</key>
 		<data>
 		Wx0m+fc8n7+D/dlfv8Qtw4mJopg=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/voice_volume_3@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/voice_volume_3@3x.png</key>
 		<data>
 		FiPrL1fqghNw2gJFAJ5ssqKov5Y=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/wait_one@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/wait_one@3x.png</key>
 		<data>
 		uXLK3kQcuZ6MfIUQtJrA0Lu19Ls=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/wait_three@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/wait_three@3x.png</key>
 		<data>
 		OGlR8zRcTvHewoEBBQLqi0/JDk0=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/wait_two@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/wait_two@3x.png</key>
 		<data>
 		XUAHwgSmZ4cmI76KbCaWMjLCy6g=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/wb_loadfail@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/wb_loadfail@3x.png</key>
 		<data>
 		bF3ktZ4mtspAF9JGbXqmG6+4umQ=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/Info.plist</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Info.plist</key>
 		<data>
 		nD+CZnlAiEfETHvizPWjuhbKXLY=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/MedicItemView.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MedicItemView.nib/objects-11.0+.nib</key>
 		<data>
 		cI0UcoZqIzl8//D+UiN3IJIx5KA=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/MedicItemView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MedicItemView.nib/objects-13.0+.nib</key>
 		<data>
 		dn7z7FtOVhOGZAQwdkpLj3gETkI=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/MedicItemView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MedicItemView.nib/runtime.nib</key>
 		<data>
 		kabCwM36TiRC8jmjxBUxxDKKN/w=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/MedicStatus.storyboardc/Info.plist</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MedicStatus.storyboardc/Info.plist</key>
 		<data>
 		CbSBGc6mF+AapflOheDLKK69oZI=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/MedicStatus.storyboardc/LXC-Q0-bne-view-uRS-pr-z6i.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MedicStatus.storyboardc/LXC-Q0-bne-view-uRS-pr-z6i.nib/objects-11.0+.nib</key>
 		<data>
 		Y9SWj/TWvbi6YZYJ4Gunf3t6bOk=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/MedicStatus.storyboardc/LXC-Q0-bne-view-uRS-pr-z6i.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MedicStatus.storyboardc/LXC-Q0-bne-view-uRS-pr-z6i.nib/objects-13.0+.nib</key>
 		<data>
 		uR1ZhI8FFuWy8BapSepY8dwdEE4=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/MedicStatus.storyboardc/LXC-Q0-bne-view-uRS-pr-z6i.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MedicStatus.storyboardc/LXC-Q0-bne-view-uRS-pr-z6i.nib/runtime.nib</key>
 		<data>
 		YIIRlClht+Qzw3n/PUNPT5wMtls=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/MedicStatus.storyboardc/UIViewController-LXC-Q0-bne.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MedicStatus.storyboardc/UIViewController-LXC-Q0-bne.nib/objects-11.0+.nib</key>
 		<data>
 		cqyFuzqLhoLdYqwcd/wlsh/L6vA=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/MedicStatus.storyboardc/UIViewController-LXC-Q0-bne.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MedicStatus.storyboardc/UIViewController-LXC-Q0-bne.nib/objects-13.0+.nib</key>
 		<data>
 		IE5jN76nmmNdF+6wLlg5pNxfTAE=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/MedicStatus.storyboardc/UIViewController-LXC-Q0-bne.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MedicStatus.storyboardc/UIViewController-LXC-Q0-bne.nib/runtime.nib</key>
 		<data>
 		3/sUFkFPZj3o6uUef3A5OEWD1kc=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/MemberListView.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MemberListView.nib/objects-11.0+.nib</key>
 		<data>
 		w7jYMCo+EOyQG7cYg78QhJ3kFWA=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/MemberListView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MemberListView.nib/objects-13.0+.nib</key>
 		<data>
 		NHVNF595puBMQPwXp3P5r6DRQbc=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/MemberListView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MemberListView.nib/runtime.nib</key>
 		<data>
 		dovYyXSogkLebJIpreeRjG3Tj20=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/PhotoGuide.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/PhotoGuide.nib/objects-11.0+.nib</key>
 		<data>
 		Hg8DQr4Ij1rkW5OCDL8bB6V0sC8=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/PhotoGuide.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/PhotoGuide.nib/objects-13.0+.nib</key>
 		<data>
 		9sJ4Clq0qDz1giO4E5Nr1b4jcz4=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/PhotoGuide.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/PhotoGuide.nib/runtime.nib</key>
 		<data>
 		Y0IWYn0TsjHAUpXJ9RCZqrKFK5A=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/PhotoPermissionAlert.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/PhotoPermissionAlert.nib/objects-11.0+.nib</key>
 		<data>
 		016PnRmj3hofCl04HUXYnYTowiM=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/PhotoPermissionAlert.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/PhotoPermissionAlert.nib/objects-13.0+.nib</key>
 		<data>
 		LQNI8sqiBkm08JAdtibKKmEpr4o=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/PhotoPermissionAlert.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/PhotoPermissionAlert.nib/runtime.nib</key>
 		<data>
 		t03+eQnHaAXPixuiwGB9LXab9Yo=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/ProductTipView.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ProductTipView.nib/objects-11.0+.nib</key>
 		<data>
 		y9K4NrKGT/YHI+O9pIL52olt57E=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/ProductTipView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ProductTipView.nib/objects-13.0+.nib</key>
 		<data>
 		h0iIP2vpl71VEEPPt9nL/5KgAFk=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/ProductTipView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ProductTipView.nib/runtime.nib</key>
 		<data>
 		OPn6JRZjAIwLkh9by9qd5TP4ghk=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/ReSelectPremissView.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ReSelectPremissView.nib/objects-11.0+.nib</key>
 		<data>
 		Bs96G6/NhGdLkBipv95j/xW8RG8=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/ReSelectPremissView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ReSelectPremissView.nib/objects-13.0+.nib</key>
 		<data>
 		pQaqAbZHJ7MYTS7J7iNVc9tCN8I=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/ReSelectPremissView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ReSelectPremissView.nib/runtime.nib</key>
 		<data>
 		qiU0OJcwyslYesfWiDZ7b0CehsA=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/RealName.storyboardc/Info.plist</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/RealName.storyboardc/Info.plist</key>
 		<data>
 		tFHi/rkyq9LRpGTd0mfLAgkFE0M=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/RealName.storyboardc/inP-8t-qNB-view-NmI-lS-I7Y.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/RealName.storyboardc/inP-8t-qNB-view-NmI-lS-I7Y.nib/objects-11.0+.nib</key>
 		<data>
 		VqRCNb/HjCnQ04vnZCvqQjSFe/4=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/RealName.storyboardc/inP-8t-qNB-view-NmI-lS-I7Y.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/RealName.storyboardc/inP-8t-qNB-view-NmI-lS-I7Y.nib/objects-13.0+.nib</key>
 		<data>
 		ROud/d3pWnbGGNOLnT7cmfZR5ns=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/RealName.storyboardc/inP-8t-qNB-view-NmI-lS-I7Y.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/RealName.storyboardc/inP-8t-qNB-view-NmI-lS-I7Y.nib/runtime.nib</key>
 		<data>
 		wN10ip09wm5kOiTlM+nDI0ZA6kk=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/RealName.storyboardc/realName.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/RealName.storyboardc/realName.nib/objects-11.0+.nib</key>
 		<data>
 		DSCUtrWaYjUdU+wzcDsPjF32EGw=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/RealName.storyboardc/realName.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/RealName.storyboardc/realName.nib/objects-13.0+.nib</key>
 		<data>
 		h8cf8BICf6mVkoDxGPk1ASUCLo4=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/RealName.storyboardc/realName.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/RealName.storyboardc/realName.nib/runtime.nib</key>
 		<data>
 		CNZohcUGGlaaC91Ug5oE/UuN6sg=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/Upload.storyboardc/Info.plist</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Upload.storyboardc/Info.plist</key>
 		<data>
 		3XV11D3x20EUd2Tn3LrlZJblxVA=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/Upload.storyboardc/UIViewController-jgq-dG-SDa.nib/objects-12.3+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Upload.storyboardc/UIViewController-jgq-dG-SDa.nib/objects-12.3+.nib</key>
 		<data>
 		U0XMyGClfJLOLKXKhbCfDs7mQ0g=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/Upload.storyboardc/UIViewController-jgq-dG-SDa.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Upload.storyboardc/UIViewController-jgq-dG-SDa.nib/objects-13.0+.nib</key>
 		<data>
 		qMiMSuAwmsAQaqIoG4Nty4pc47I=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/Upload.storyboardc/UIViewController-jgq-dG-SDa.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Upload.storyboardc/UIViewController-jgq-dG-SDa.nib/runtime.nib</key>
 		<data>
 		7wF1hNbUgaRGPKRe79GgjzEafpo=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/Upload.storyboardc/jgq-dG-SDa-view-Xv5-uR-Wlf.nib/objects-12.3+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Upload.storyboardc/jgq-dG-SDa-view-Xv5-uR-Wlf.nib/objects-12.3+.nib</key>
 		<data>
 		4/2z+zCc0hCJHZYBFeMOprajQuI=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/Upload.storyboardc/jgq-dG-SDa-view-Xv5-uR-Wlf.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Upload.storyboardc/jgq-dG-SDa-view-Xv5-uR-Wlf.nib/objects-13.0+.nib</key>
 		<data>
 		qUMI0B4MsE0HA30fw+Gdtm91lnA=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/Upload.storyboardc/jgq-dG-SDa-view-Xv5-uR-Wlf.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Upload.storyboardc/jgq-dG-SDa-view-Xv5-uR-Wlf.nib/runtime.nib</key>
 		<data>
 		gNdDZ/RGqxMPa3cLzpLljUkCvTY=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/Video.storyboardc/1yM-In-WzS-view-hCB-L7-FyM.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Video.storyboardc/1yM-In-WzS-view-hCB-L7-FyM.nib/objects-13.0+.nib</key>
 		<data>
 		cTF1jEDb3mKBS3NsKEMZBKZcvdo=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/Video.storyboardc/1yM-In-WzS-view-hCB-L7-FyM.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Video.storyboardc/1yM-In-WzS-view-hCB-L7-FyM.nib/runtime.nib</key>
 		<data>
 		IHRt37f0tk0AS+x1VmL6m2Fwpho=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/Video.storyboardc/Info.plist</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Video.storyboardc/Info.plist</key>
 		<data>
 		7SwriNmjy/2VxBLVWZGo1FqPIg8=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/Video.storyboardc/UINavigationController-nJR-FK-Nsn.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Video.storyboardc/UINavigationController-nJR-FK-Nsn.nib/objects-13.0+.nib</key>
 		<data>
 		88rl74JNMcMFTYXglxrhO2cgxbk=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/Video.storyboardc/UINavigationController-nJR-FK-Nsn.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Video.storyboardc/UINavigationController-nJR-FK-Nsn.nib/runtime.nib</key>
 		<data>
 		0ryfK/Vp9lEyQdytDLcfJx+1riA=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/Video.storyboardc/blocked.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Video.storyboardc/blocked.nib/objects-13.0+.nib</key>
 		<data>
 		V0zBAm73+xHljMaU/gqYQfDgJxU=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/Video.storyboardc/blocked.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Video.storyboardc/blocked.nib/runtime.nib</key>
 		<data>
 		nM5eYHPBWAaW/zxzzxMnudHLjhY=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/Video.storyboardc/eYM-0S-bXl-view-yXU-C3-IV4.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Video.storyboardc/eYM-0S-bXl-view-yXU-C3-IV4.nib/objects-13.0+.nib</key>
 		<data>
 		U76mWFYAE8Kgcp+opNdZZkhoKek=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/Video.storyboardc/eYM-0S-bXl-view-yXU-C3-IV4.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Video.storyboardc/eYM-0S-bXl-view-yXU-C3-IV4.nib/runtime.nib</key>
 		<data>
 		4DUKHZ6jNZYqJLEq1TfAKWa5pVk=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/WBErrorView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/WBErrorView.nib/objects-13.0+.nib</key>
 		<data>
 		mRQ3TdixdeMuN7muFguLdryGu4w=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/WBErrorView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/WBErrorView.nib/runtime.nib</key>
 		<data>
 		QjlFi71C2JgEiI4PGgH5JpwRJWU=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/WaitingView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/WaitingView.nib/objects-13.0+.nib</key>
 		<data>
 		x6twm2eNqZICwXJH7r7gjVWY+TY=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/WaitingView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/WaitingView.nib/runtime.nib</key>
 		<data>
 		5SYzSqUa5pSRMhs9tvjKn/SEcQo=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/WebBrowser.storyboardc/Info.plist</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/WebBrowser.storyboardc/Info.plist</key>
 		<data>
 		Z6W8FCPYWaTfv4wtDIA72kHKiTI=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/WebBrowser.storyboardc/R4r-RW-Ik2-view-kp3-lk-DkN.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/WebBrowser.storyboardc/R4r-RW-Ik2-view-kp3-lk-DkN.nib/objects-13.0+.nib</key>
 		<data>
 		1LOF9LBaP7/db/UDsC3N7/YlFQ4=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/WebBrowser.storyboardc/R4r-RW-Ik2-view-kp3-lk-DkN.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/WebBrowser.storyboardc/R4r-RW-Ik2-view-kp3-lk-DkN.nib/runtime.nib</key>
 		<data>
 		16C5IBZm2MyM2h16o9ARSLBzCLs=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/WebBrowser.storyboardc/webbrowser.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/WebBrowser.storyboardc/webbrowser.nib/objects-13.0+.nib</key>
 		<data>
 		DbGMSGSta4IRmbjgDFyWTY6fe6c=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/WebBrowser.storyboardc/webbrowser.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/WebBrowser.storyboardc/webbrowser.nib/runtime.nib</key>
 		<data>
 		zTVtpDOcbMkVFhZRbIRkDrV9+zk=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/_CodeSignature/CodeResources</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/_CodeSignature/CodeResources</key>
 		<data>
 		QFzusGm0JUniy1rhLaZ1kAzTAAg=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/HD1-cR-dpx-view-feX-1D-1rH.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/HD1-cR-dpx-view-feX-1D-1rH.nib/objects-11.0+.nib</key>
 		<data>
 		nRCJdlGdf4UB5PrHydhlEslwvaY=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/HD1-cR-dpx-view-feX-1D-1rH.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/HD1-cR-dpx-view-feX-1D-1rH.nib/objects-13.0+.nib</key>
 		<data>
 		CoAmXgS2AArGPCb8w787XRcIllc=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/HD1-cR-dpx-view-feX-1D-1rH.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/HD1-cR-dpx-view-feX-1D-1rH.nib/runtime.nib</key>
 		<data>
 		+hbNbkLjfw8b5WRPk6hx/p4xrcc=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/Info.plist</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/Info.plist</key>
 		<data>
 		pakHUYGF1mlvbaoac95gHkHTiEQ=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/Wvh-CQ-zS2-view-abQ-Zf-EZJ.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/Wvh-CQ-zS2-view-abQ-Zf-EZJ.nib/objects-11.0+.nib</key>
 		<data>
 		jEuchgza/GzItC8RmRJsUxTSuVw=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/Wvh-CQ-zS2-view-abQ-Zf-EZJ.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/Wvh-CQ-zS2-view-abQ-Zf-EZJ.nib/objects-13.0+.nib</key>
 		<data>
 		8Ib+Lh/BxoUyobl1z040lTh1pMo=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/Wvh-CQ-zS2-view-abQ-Zf-EZJ.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/Wvh-CQ-zS2-view-abQ-Zf-EZJ.nib/runtime.nib</key>
 		<data>
 		wQ6QRK0Ca6uw4deOiZ4kDIGZSC0=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/chatHome.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/chatHome.nib/objects-11.0+.nib</key>
 		<data>
 		sjcqP8pE3aPZsuvcbJNNvsMj8bc=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/chatHome.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/chatHome.nib/objects-13.0+.nib</key>
 		<data>
 		dr5KJQilwaT2eHs7TPY2NMhf3sc=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/chatHome.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/chatHome.nib/runtime.nib</key>
 		<data>
 		CO3oZjNuiS8Xqus7P88xmYFazDc=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/chatSetting.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/chatSetting.nib/objects-11.0+.nib</key>
 		<data>
 		iyqPEDHiQnM8mFsBtwBJxdemwt0=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/chatSetting.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/chatSetting.nib/objects-13.0+.nib</key>
 		<data>
 		iFm+5G9ABg7Cd0XQ04ZLM9kZeYc=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/chatSetting.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/chatSetting.nib/runtime.nib</key>
 		<data>
 		uNgYkbCUEvMGAXFx5X91QcROKxI=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/inviteCode.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/inviteCode.nib/objects-11.0+.nib</key>
 		<data>
 		Fa78qJfp6o0mO5K1+td+Id9wNB4=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/inviteCode.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/inviteCode.nib/objects-13.0+.nib</key>
 		<data>
 		bCsDvtT/DM+rFLSOUib1UOZk+Po=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/inviteCode.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/inviteCode.nib/runtime.nib</key>
 		<data>
 		eLNBGi5h9Wc6TEXyncl3OHQZacA=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/uts-f3-3L2-view-Srw-hR-Pcp.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/uts-f3-3L2-view-Srw-hR-Pcp.nib/objects-11.0+.nib</key>
 		<data>
 		j+uKa620h8s9iYR1idWsq05kT/E=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/uts-f3-3L2-view-Srw-hR-Pcp.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/uts-f3-3L2-view-Srw-hR-Pcp.nib/objects-13.0+.nib</key>
 		<data>
 		KybOOWi2o4rGUN1tNpcAHckzIV8=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/uts-f3-3L2-view-Srw-hR-Pcp.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/uts-f3-3L2-view-Srw-hR-Pcp.nib/runtime.nib</key>
 		<data>
 		NhDIhoKtwDRZhK5TJ1C9vv9GvCo=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/comment.storyboardc/Info.plist</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/comment.storyboardc/Info.plist</key>
 		<data>
 		umNcCwXyxvHNjPaKLvJjlm2/fIk=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/comment.storyboardc/UINavigationController-0Si-xm-B2v.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/comment.storyboardc/UINavigationController-0Si-xm-B2v.nib/objects-11.0+.nib</key>
 		<data>
 		nPUv4YPUSlMbdsD8WPIWezOM4Hg=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/comment.storyboardc/UINavigationController-0Si-xm-B2v.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/comment.storyboardc/UINavigationController-0Si-xm-B2v.nib/objects-13.0+.nib</key>
 		<data>
 		SXbQ+MynFoqgAH6HrtlQgCcwjpg=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/comment.storyboardc/UINavigationController-0Si-xm-B2v.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/comment.storyboardc/UINavigationController-0Si-xm-B2v.nib/runtime.nib</key>
 		<data>
 		bxZj3ryXSh3hTTKCCOB7RJXH7Is=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/comment.storyboardc/wzQ-GF-Pq0-view-cCD-m9-X4Z.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/comment.storyboardc/wzQ-GF-Pq0-view-cCD-m9-X4Z.nib/objects-11.0+.nib</key>
 		<data>
 		vgE4ZALt5uw7iDeSWv80LFqLj38=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/comment.storyboardc/wzQ-GF-Pq0-view-cCD-m9-X4Z.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/comment.storyboardc/wzQ-GF-Pq0-view-cCD-m9-X4Z.nib/objects-13.0+.nib</key>
 		<data>
 		xfB9VB9G2XaBuVClnbT5Zy3FD94=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/comment.storyboardc/wzQ-GF-Pq0-view-cCD-m9-X4Z.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/comment.storyboardc/wzQ-GF-Pq0-view-cCD-m9-X4Z.nib/runtime.nib</key>
 		<data>
 		Xu4YuO9F5jZq2suihbGkTGxymMQ=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/member.storyboardc/Info.plist</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/member.storyboardc/Info.plist</key>
 		<data>
 		T9TeXOPcwngV8/mCy3pSQCYCeFQ=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/member.storyboardc/addMember.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/member.storyboardc/addMember.nib/objects-13.0+.nib</key>
 		<data>
 		OrqjwMjxge+fGPI5vjQaBdWJ/OM=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/member.storyboardc/addMember.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/member.storyboardc/addMember.nib/runtime.nib</key>
 		<data>
 		7dw33WXQ9t1a/166kzOI2BGKO3g=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/member.storyboardc/profit.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/member.storyboardc/profit.nib/objects-13.0+.nib</key>
 		<data>
 		Vayp20sjAfR8rKj8X0cayXXex04=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/member.storyboardc/profit.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/member.storyboardc/profit.nib/runtime.nib</key>
 		<data>
 		JYHibyYgYIgl6g42vFQV3fRFwVA=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/member.storyboardc/xsQ-4A-MAW-view-Qcf-gy-1uQ.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/member.storyboardc/xsQ-4A-MAW-view-Qcf-gy-1uQ.nib/objects-13.0+.nib</key>
 		<data>
 		2AC5JFy6+f14iWBvNM9u+pAGJP0=
 		</data>
-		<key>Frameworks/HHDoctorSDK.framework/member.storyboardc/xsQ-4A-MAW-view-Qcf-gy-1uQ.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/member.storyboardc/xsQ-4A-MAW-view-Qcf-gy-1uQ.nib/runtime.nib</key>
 		<data>
 		dmFJ+WjJmtGrXoLVYPBr82jY+zY=
 		</data>
@@ -926,7 +926,7 @@
 		</data>
 		<key>Frameworks/NIMAVChat.framework/NIMAVChat</key>
 		<data>
-		jB/y+hlVXyghJW4bBYjSzKJmDrg=
+		SsM0qHsVV4TnB9ohY3J1/zJEPBA=
 		</data>
 		<key>Frameworks/NIMAVChat.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -938,7 +938,7 @@
 		</data>
 		<key>Frameworks/NIMSDK.framework/NIMSDK</key>
 		<data>
-		/BXM3zkmKj09V1AZKnAuMNaSzkM=
+		NJ0Pg267Y5C/N/sI7m2TXaDWm1g=
 		</data>
 		<key>Frameworks/NIMSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -950,7 +950,7 @@
 		</data>
 		<key>Frameworks/NMC.framework/NMC</key>
 		<data>
-		uRwKTYh4LWOqJM8q7WrgP6u9CjI=
+		Dyol6E9F2j0eCij2KjD98lA8Fbo=
 		</data>
 		<key>Frameworks/NMC.framework/NetEaseWEShader.metallib</key>
 		<data>
@@ -970,7 +970,7 @@
 		</data>
 		<key>Frameworks/NMCBasicModuleFramework.framework/NMCBasicModuleFramework</key>
 		<data>
-		RSOxKLQsliCYFATmK/FxEA3SUoU=
+		groTt8D4kTpGPL2VYvsU4h9CKbQ=
 		</data>
 		<key>Frameworks/NMCBasicModuleFramework.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -982,7 +982,7 @@
 		</data>
 		<key>Frameworks/SecurityKit.framework/SecurityKit</key>
 		<data>
-		2Bm8j/S3ucW3fpoThEUpG0CEU38=
+		L2VoR4uUg340FRS21EbIS5DBUdA=
 		</data>
 		<key>Frameworks/SecurityKit.framework/SecurityKit.bundle/Info.plist</key>
 		<data>
@@ -1006,7 +1006,7 @@
 		</data>
 		<key>Frameworks/SecurityKit.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		blc6VfBIuLKq2RKTput37l2AofA=
+		cSbY0oMuAaRGvw0xx1FOZBD5GvU=
 		</data>
 		<key>Frameworks/SecurityKit.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -1014,7 +1014,7 @@
 		</data>
 		<key>Frameworks/SecurityKit.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		x/9H9UITOeC+ei8k1/W6/7MQw+I=
+		CuIUcTyBSo/cIra4cwC+h8JrdwI=
 		</data>
 		<key>Frameworks/SecurityKit.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -1022,7 +1022,7 @@
 		</data>
 		<key>Frameworks/SecurityKit.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		RkxFw3VvcV+R4b4rXl+L+MkD4os=
+		WvUygsIvx7TlZrgVv46M4IDfBPs=
 		</data>
 		<key>Headers/HYSDoctor.h</key>
 		<data>
@@ -1034,7 +1034,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KR/qnTt8+8fmx0ZcOlh1WZnh5/w=
+		NDuJSJXA3wu1F3F5KDUdif1RfAU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1079,7 +1079,7 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/HHDoctorSDK.framework/CMBadResView.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMBadResView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1090,7 +1090,7 @@
 			qE2QGsfluk5VATAz4SdTMeBDqHipjFIfdYsSPPxAmc8=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/CMBadResView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMBadResView.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1101,7 +1101,7 @@
 			94niMXEsYQCYmbrZXm/zS5bgMNvkfCUVDwedjFySy88=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/CMBadResView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMBadResView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1112,7 +1112,7 @@
 			TpU5lzwidStjUEYD2nu1D/ixiiyoSBUH8/a7e9j9hUY=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/CMGoodResView.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMGoodResView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1123,7 +1123,7 @@
 			eORnYqB4Fq48mUO8ci3fc5TfxV6GpJd9lzpOUCa8nk8=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/CMGoodResView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMGoodResView.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1134,7 +1134,7 @@
 			Z42gXxylK9yD4qPx7SucqGpks5JgsLOIh0K4fLX/b4k=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/CMGoodResView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMGoodResView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1145,7 +1145,7 @@
 			/k7iEVdsx6KqiryoJXBoByVlghaEs1ER7VbGgi3HJpc=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/CMQuesCell.nib/objects-12.3+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMQuesCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1156,7 +1156,7 @@
 			FnNr+oDmg4I2ewGdBxOcqjl74oLWfLrpxrdJzcIDazo=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/CMQuesCell.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMQuesCell.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1167,7 +1167,7 @@
 			pg57NcJ05Ay2M9mJWUkNYoy+aIevH7H99cA0SIyc3Ug=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/CMQuesCell.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMQuesCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1178,7 +1178,7 @@
 			CNxNl+ayyyUtWpVEBMW/K1zw8Ka9DLCVGLhTDNsd9n4=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/CMStarView.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMStarView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1189,7 +1189,7 @@
 			X13Qgl5Q3X5bdf2tgXHjD9dBMmaWDRMI3hZF7DC7b88=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/CMStarView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMStarView.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1200,7 +1200,7 @@
 			jp0B3cvTOfQYzfJFE/GE4fND4ivI8SbXXSqOWkqXVeU=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/CMStarView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMStarView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1211,7 +1211,7 @@
 			wPhDOeJRNgcQpnvkV7Ut+VJ0K3Dnx/nEqaQc4piZcLk=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/CMTouSuView.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMTouSuView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1222,7 +1222,7 @@
 			U6xvsaCvgZ1P//xbbhhv7SC4M7BVM/SBXvrkM2B98vQ=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/CMTouSuView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMTouSuView.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1233,7 +1233,7 @@
 			Xz68/p4e/7Huf4YN4z+kXBIA7tWBe7w+2+M4PyIB9bk=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/CMTouSuView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMTouSuView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1244,7 +1244,7 @@
 			+z7BomwfxoU35EyqAIncEXenqXclaHzCUiX4oEwuPf8=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/CMTousuResView.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMTousuResView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1255,7 +1255,7 @@
 			couXelVqftRxgwU8Wt/ZhX9w1MpEE3Gni45FI8Bfjbw=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/CMTousuResView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMTousuResView.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1266,7 +1266,7 @@
 			XWNGfk74OhdI6NEfDI6nkFoUT/WaISa8FntdschPvR0=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/CMTousuResView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/CMTousuResView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1277,7 +1277,7 @@
 			8RaAJLmQlXeBWrWN/8cYDOmGnI/+DGRhgtlkknl1jEQ=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/ChangeMedicCount.storyboardc/Info.plist</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ChangeMedicCount.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1288,7 +1288,7 @@
 			J6d2KUiH448krFb6btEEJwrWtjRhgSMkl1worGaFIHA=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/ChangeMedicCount.storyboardc/UIViewController-ibJ-Ex-pPQ.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ChangeMedicCount.storyboardc/UIViewController-ibJ-Ex-pPQ.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1299,7 +1299,7 @@
 			HRSj+dXeGaLRm6avgO7MpWc3ndQC5ZGT4OBFID2P8hk=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/ChangeMedicCount.storyboardc/UIViewController-ibJ-Ex-pPQ.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ChangeMedicCount.storyboardc/UIViewController-ibJ-Ex-pPQ.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1310,7 +1310,7 @@
 			rocwutu6/nBGlNyLqmj73+qBkUAPsv9K7l6epWPvOlc=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/ChangeMedicCount.storyboardc/UIViewController-ibJ-Ex-pPQ.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ChangeMedicCount.storyboardc/UIViewController-ibJ-Ex-pPQ.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1321,7 +1321,7 @@
 			1l1YlDQTuiVW7RAPz+y2tgC28vZdICPqbHSsYJqxQVA=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/ChangeMedicCount.storyboardc/ibJ-Ex-pPQ-view-1qo-zd-DBO.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ChangeMedicCount.storyboardc/ibJ-Ex-pPQ-view-1qo-zd-DBO.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1332,7 +1332,7 @@
 			ibaOix5L++LgphooW+a2ngtzFbYLcgS4EsA0k68/4jY=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/ChangeMedicCount.storyboardc/ibJ-Ex-pPQ-view-1qo-zd-DBO.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ChangeMedicCount.storyboardc/ibJ-Ex-pPQ-view-1qo-zd-DBO.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1343,7 +1343,7 @@
 			6oOzSz6ZnzQd+piFv6X6kuuICuxY481fLKYPjin5PC4=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/ChangeMedicCount.storyboardc/ibJ-Ex-pPQ-view-1qo-zd-DBO.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ChangeMedicCount.storyboardc/ibJ-Ex-pPQ-view-1qo-zd-DBO.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1354,7 +1354,7 @@
 			avgUVoL4/z1AireQ+3UjsFEZ7qOhbU3wifKeeGhjh1c=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/ControlView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ControlView.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1365,7 +1365,7 @@
 			zmFBraFdfBy5pcidAORyDNDFF5/ZmTiPudWP4nbfQNg=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/ControlView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ControlView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1376,7 +1376,7 @@
 			L6JQFq0awJSmuTl+N0WMcfpNrSo0yqiluIHCpzK80sE=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/DoctorIntroView.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/DoctorIntroView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1387,7 +1387,7 @@
 			Go6KpverpzXFsNkcOesk1OD7wiKbVpqw9VOmswxlGkg=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/DoctorIntroView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/DoctorIntroView.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1398,7 +1398,7 @@
 			1GSTGLwKNZyHcZnQ0bShyonatc9T7DrCjAO1GtXbgC4=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/DoctorIntroView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/DoctorIntroView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1409,7 +1409,7 @@
 			abXy4/71RTh579Fc/mrMYRehHgIzVBx+Ce4xxV9NKAo=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/ExpandView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ExpandView.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1420,7 +1420,7 @@
 			a2roo1DnxdaHkAOkPTd0O4BKlf3JtQ4/MOQ5DDJUliM=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/ExpandView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ExpandView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1431,7 +1431,7 @@
 			mbNqFZtNRgEdQ27WaPb+LTtaZwGbFmSPdVW7JqD0hH4=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HHCodeCellView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHCodeCellView.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1442,7 +1442,7 @@
 			sCGeG/+QGJPlkn8h/fLGv4gpV/pIjTgxyXsy3iQZKYQ=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HHCodeCellView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHCodeCellView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1453,7 +1453,7 @@
 			B3nZqB0EpXL3wkY3/+l+j/qN1/3U1xWEEC/htiyC/Ag=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HHCodeView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHCodeView.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1464,7 +1464,7 @@
 			iZkpnLBKrmtpDz96xipiOh5ISKECiIE5NGpHzaZ4MlU=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HHCodeView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHCodeView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1475,18 +1475,18 @@
 			TQAHhXhg65Wqf/YOCbnx/B1fmyKsrtRU9a+8v270PLw=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HHDoctorSDK</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHDoctorSDK</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Vam9yC8wqqmUGb4KyzSLLAyb6B0=
+			TMIgqrGO+X7ijd9zbUjIpBgomu8=
 			</data>
 			<key>hash2</key>
 			<data>
-			C0LcrSMDln5F8/vwjnfOutk2gmJYYaEi1/JPqo0MgnA=
+			HnTzZ8dQbiQt3RgcBwy2RVaK148VPFm/Mt50fXmOt/s=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HHMemLoadView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHMemLoadView.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1497,7 +1497,7 @@
 			BO/8jo4mJHacM9A7Idargh/hcalsggWkSADsqF+emwQ=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HHMemLoadView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHMemLoadView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1508,7 +1508,7 @@
 			+uERcqKvUH3CfZxefvL0vqPj0kZu2FeqYIwfZ6pnIH4=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HHMultyVideoView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHMultyVideoView.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1519,7 +1519,7 @@
 			llVanA+r6eZlSlcikXAPkjQEGxscRIGfm3VsXSgAwDY=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HHMultyVideoView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHMultyVideoView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1530,7 +1530,7 @@
 			aElxrmTc91zuYEmOo9krKdpjRxE+GUiHRB+V1F6KMBM=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HHPhoneView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHPhoneView.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1541,7 +1541,7 @@
 			/FcmlQwOx3CEsxOfqzb5cs9vEZBpFvTGEZBqp/1kv5Q=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HHPhoneView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHPhoneView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1552,7 +1552,7 @@
 			nLl+MVPy1nFxM4RhgyTG8JbsZ6uXHYHH/YZSOk9vgb4=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HHSelectMemCell.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHSelectMemCell.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1563,7 +1563,7 @@
 			t6azh4ZnuYhe/wUg58fsD+oXiKfs8NvU9fjfZ0TXBCw=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HHSelectMemCell.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHSelectMemCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1574,7 +1574,7 @@
 			MT0xyDYYmVVWiXwjhYluuR8rqDEs47IRqYfCQXQ8ey4=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HHSelectMemView.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHSelectMemView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1585,7 +1585,7 @@
 			+s58lH6k+CdmvGjRxOMhgFX5oT7QWn7qKQITFlgYeWA=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HHSelectMemView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHSelectMemView.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1596,7 +1596,7 @@
 			nGFLrXzzBrPl/c4J+9PPMByb3oiTEdotVjqQ3/dZJgM=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HHSelectMemView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHSelectMemView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1607,7 +1607,7 @@
 			KuGKnfXpUllooBzcYNfDR44ojjyEVcm2C1CwFT5fFcA=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HHVideoView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHVideoView.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1618,7 +1618,7 @@
 			/gkzlZs7UMphFYiY6ucGn1GjngPE9qt21MzdE+rg74I=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HHVideoView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HHVideoView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1629,7 +1629,7 @@
 			wclcwOI+VaOkwIjeVbsoy6N5MV1w69BOlYHDsVwxgDE=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/SDKConfig.plist</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/SDKConfig.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1640,7 +1640,7 @@
 			7hHiDrx79HQVDb0PUynQ7i2lZibJMJmGEPcWgizq5/Y=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/addr_close@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/addr_close@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1651,7 +1651,7 @@
 			xpjx3E4PpQ17vJ+sQj2VV1REjigovq6CVvLsVkFEzV0=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/addr_close@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/addr_close@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1662,7 +1662,7 @@
 			PJqzZi31Xfl1e5W3PB6NXEiPuS0kpfhc0WkdYEzSKfs=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/back_app@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/back_app@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1673,7 +1673,7 @@
 			MXRU2dpGlVfhu9wJohLR2UBxeg8dgzbgCxw1iCA+768=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/call_default@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/call_default@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1684,7 +1684,7 @@
 			E3dwy5t/dbUhZFZYMLBBp3qj94lDq68u6JTFXJhQ8BM=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/calling.mp3</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/calling.mp3</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1695,7 +1695,7 @@
 			P8uKPqPrBIsED9IYmQ5b01bpirArTCcbFxO9t8mw7mY=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/camera_disable@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/camera_disable@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1706,7 +1706,7 @@
 			KiubORsxfpTOVNdFRAKItgsruBC1ARD9QTLwS4gR16E=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/camera_flash_close@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/camera_flash_close@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1717,7 +1717,7 @@
 			GAqk3VSthAAbrp2gREWSLqSB/KtHsGCNbhNI4xiv0j8=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/camera_flash_normal@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/camera_flash_normal@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1728,7 +1728,7 @@
 			ltTgpJ6J7aGdmGlzOb7iy94+yHW0AAZ+VN6GfIZ9Yqs=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/chat9left.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/chat9left.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1739,7 +1739,7 @@
 			ehI3n5rOQ8BdCSu6/5f60QibdDMprWsbHfgj5Q6oLao=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/chat_arrow.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/chat_arrow.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1750,7 +1750,7 @@
 			CcVzJKmqVfnR1uPkKyX54tX+6H43ikUvb0seOf83Drg=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/chat_mask_b@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/chat_mask_b@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1761,7 +1761,7 @@
 			vageD285IG+j5GupbKI41tIE40T8FCKQbgmPUSMilFo=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/chat_mask_t@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/chat_mask_t@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1772,7 +1772,7 @@
 			cS3l8LfPGsZzTIrHq3D3vT/HX/58LaJrGGo5a6+M3Zo=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/check_box_default@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/check_box_default@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1783,7 +1783,7 @@
 			+LvF1ILjampIxHkjm72BOTJXT+F2mxRZ2WJ5r+TK1e0=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/check_box_default@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/check_box_default@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1794,7 +1794,7 @@
 			+LvF1ILjampIxHkjm72BOTJXT+F2mxRZ2WJ5r+TK1e0=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/check_box_right@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/check_box_right@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1805,7 +1805,7 @@
 			4BCDn0p2xPAaA07g0ddiakGb9It26i0vI9p5Y8uNVfk=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/check_box_right@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/check_box_right@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1816,7 +1816,7 @@
 			rLcuST9yjufjCMJZWNo0P8g6qFoyIkDIxTvASS6Dyk0=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/close_member@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/close_member@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1827,7 +1827,7 @@
 			78lVNf61DNES6A0HiH+exxNifVXpg2ESD+mbAUrT8zk=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/cm_arrow_right@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/cm_arrow_right@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1838,7 +1838,7 @@
 			Qm3KoXYvpEx/9Rblusl/X3Pf0kR2c0G6BNGCWVNaIVI=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/cm_arrow_right@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/cm_arrow_right@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1849,7 +1849,7 @@
 			zx5zlb3UEp2u6DRxGuig+1+ebJPMwLFbiP98vNtsIgA=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/cm_feedback@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/cm_feedback@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1860,7 +1860,7 @@
 			1I6zCyrA3/jSUkTwLhgoenlkGabk1nwJFRuDDXhfU74=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/cm_feedback@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/cm_feedback@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1871,7 +1871,7 @@
 			IDi8pITZIcEr1Q+0/MG6vS3XZpn0rFo5ozNSuJIaDs8=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/coment_unhappy_s@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/coment_unhappy_s@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1882,7 +1882,7 @@
 			1EOjSkRS0dNcdJJpmueAb+n/Mrk0Afz8JRVqKASSSg4=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/coment_unhappy_s@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/coment_unhappy_s@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1893,7 +1893,7 @@
 			AU8nrWF2tPQXY+tjUWx0nUS7FtZNi2JiHdeb7d4R7gk=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/comment_happy@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/comment_happy@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1904,7 +1904,7 @@
 			GpNlyEohNkp9I+waHSITVUUyLaw9xE1U4P6SmzvQmRQ=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/comment_happy@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/comment_happy@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1915,7 +1915,7 @@
 			9oM5LueHLH+juz90PfdpsTtM21fzQRUynouPHsZ9Jgw=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/comment_happy_s@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/comment_happy_s@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1926,7 +1926,7 @@
 			Ix035KWisMuyoZhi/O8czUoXP6caPa2YqpLuz7C+UXo=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/comment_happy_s@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/comment_happy_s@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1937,7 +1937,7 @@
 			eiA3qpk84Icd3ESRmm2vSOVsKSW56tyihzMDkJVtENc=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/comment_unhappy@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/comment_unhappy@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1948,7 +1948,7 @@
 			zGWDVTa1pSRcIrPqn8jwC/Fx2YIkkF0F5iOhpnY3DNo=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/comment_unhappy@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/comment_unhappy@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1959,7 +1959,7 @@
 			L2lTFTA2c4dVg9BMXeKyWwGRee7miT6DbSMh3fN0nY0=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/counter_back@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/counter_back@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1970,7 +1970,7 @@
 			mQ2j2KdBgJIxGYT2I/H91vG+VJNC9TsTCrKFQ4QqN7U=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/counter_back@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/counter_back@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1981,7 +1981,7 @@
 			+G9CnNnwjFR0+ngGxE6VjZNpki2UZktl6lcxsGJK8Vs=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/cus_shape@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/cus_shape@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1992,7 +1992,7 @@
 			vmiFRY3VBncf+ackHhsisQoggm423t7IWvZ4HDnBvs8=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/default_icon@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/default_icon@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2003,7 +2003,7 @@
 			ldGuz3DOzdeJuPpuk16NGnWpo/IAw8on+QxmvSd3uLY=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/delivery_logo2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/delivery_logo2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2014,7 +2014,7 @@
 			ln9ImQ9x8amOkLOVYuaHkntfpgrETcGWj8CClxkoegQ=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/delivery_logo@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/delivery_logo@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2025,7 +2025,7 @@
 			R+Wdud9M33H32pU0HtI3Qjx5WhHgcW1R+iCJOQ1K/wI=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/doctor_license@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/doctor_license@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2036,7 +2036,7 @@
 			PzTt0xx+DTik3z648jGcq7PoYZ9QIghDATNhhsQX84E=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/doctor_license_highlight@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/doctor_license_highlight@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2047,7 +2047,7 @@
 			3kXA7NwtLHpWrSRyP04QkKD82+OAghCS4UeFJA76Mt0=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hangUp.mp3</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hangUp.mp3</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2058,7 +2058,7 @@
 			AOsmmLAlcDkBiSYX9+wNGerzAQ0UabChb6wV7Wkpvpw=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_accept_highlight@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_accept_highlight@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2069,7 +2069,7 @@
 			PRUiJvYKRcaMkvKHnD6HRJE5CChv9OiXYPSdk5Vunco=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_accept_normal@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_accept_normal@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2080,7 +2080,7 @@
 			8xxreV4x8WoFEXyNIumIJgX2wkMXZn+mWzRL4eMaAIc=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_call_mask@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_call_mask@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2091,7 +2091,7 @@
 			yUp4BPY5K6feUoDDFNj7WmU2zQoMyLNXLALwlJygqnM=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_change_camera_highlight@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_change_camera_highlight@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2102,7 +2102,7 @@
 			KiubORsxfpTOVNdFRAKItgsruBC1ARD9QTLwS4gR16E=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_change_camera_normal@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_change_camera_normal@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2113,7 +2113,7 @@
 			M7BAh+qdMcAQxBmy28f+Agjin0+KHkPoOQG6/t2kwvQ=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_change_doctor@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_change_doctor@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2124,7 +2124,7 @@
 			WnV8S+ueLsVkJjBO0uJ+iK4fWe/Ui6KSI2gF0gO+OUU=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_change_voice_highlight@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_change_voice_highlight@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2135,7 +2135,7 @@
 			XQntfia7ZHoUQFNB2dWPdP3X6g/TAYzAIWIJU0r1NB4=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_change_voice_normal@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_change_voice_normal@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2146,7 +2146,7 @@
 			f4ViqAMDIBn1p9NHBtFG/YB8lPZ/e98L6PSQ8EDsZzY=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_hangup_highlight@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_hangup_highlight@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2157,7 +2157,7 @@
 			oTmPPTDZ3BGoPQBBtjRkIdOGy2TPIxEp33Oc29R/YoI=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_hangup_normal@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_hangup_normal@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2168,7 +2168,7 @@
 			ZL9bN3E4orvv9Xc6rZDdVLAu1j724V0RncXeFLJiwBo=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_icon_album@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_icon_album@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2179,7 +2179,7 @@
 			oDMbBrh88JxDdrWrMWsTjPImbFciZAnNdgx8jqAIXoo=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_medic_graytip@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_medic_graytip@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2190,7 +2190,7 @@
 			0+KwQa7WzJpcuf2u5kpZ5BbxwhCU6Thxbjcw1IzqoEg=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_medic_medic_creat@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_medic_medic_creat@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2201,7 +2201,7 @@
 			77HuF0oFKmZHa1Hqd4TxWp4j6ihsHp+3HAN1+2Mzp5c=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_medic_redtip@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_medic_redtip@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2212,7 +2212,7 @@
 			Zbo6355e0PFdaJdR4lzwOw8QimR0yF20A4Awy79Y4Og=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_submitPhone@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_submitPhone@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2223,7 +2223,7 @@
 			iXrcCz7B5pyoS3mPrZWsW8G7F6o9v7F7HI3zPfrEd/g=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hh_submitPhone@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hh_submitPhone@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2234,7 +2234,7 @@
 			gjjAeQgk+TWM7m71CpXykQ6oTzdyclAGBK+axQMUMCI=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/home_new_checked@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/home_new_checked@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2245,7 +2245,7 @@
 			8GHE/3eQjbYCJlHnjc/l5kSL4m5fv5sl7e6zhkz0kQU=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/home_new_nochecked@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/home_new_nochecked@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2256,7 +2256,7 @@
 			udn/5mGfZk4m+MAR9RoCg3yQXg3br7XbFZ7TjS/v6eg=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/hp_card_video_icon.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/hp_card_video_icon.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2267,7 +2267,7 @@
 			3Xw/yoV/frfyZuUwqZnWb66qd08RqWdsPvQ2SxeRCrY=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/icon_photo_premission@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/icon_photo_premission@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2278,7 +2278,7 @@
 			N9Jwd+/GaODI2117ZoWkAS/Jym6nXKIXN08LujFEnS8=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/icon_photo_premission@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/icon_photo_premission@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2289,7 +2289,7 @@
 			Prna0nEyx+9H9Jep85QPNdYgHJSasHpvmadZCaZdlkE=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/icon_setting_address@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/icon_setting_address@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2300,7 +2300,7 @@
 			+l8BNaeCl0YGMQIsfkc1jv94o1BXnT+LjL5mK572Cvs=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/icon_setting_document@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/icon_setting_document@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2311,7 +2311,7 @@
 			Tzm8YDIX4o3BSVwmDpL3nvowSQFyFQg95/vSp5S27So=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/icon_setting_invitecode@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/icon_setting_invitecode@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2322,7 +2322,7 @@
 			PJe+JtlTxDNl9+rct4t0cRYpuctUGCfZ03LxDdxt4Os=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/icon_setting_member@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/icon_setting_member@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2333,7 +2333,7 @@
 			qZU9pGPmlz8ANcVXh4JKjRE8lj3+wmgtbVL7NLukbbg=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/icon_setting_order@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/icon_setting_order@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2344,7 +2344,7 @@
 			d1r8mnMKEZiV1eI53BrNJmiTCHNymtuyw0GgyZmTkC4=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/icon_video@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/icon_video@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2355,7 +2355,7 @@
 			Z4QaP27vXdd3Q5nt1xCES4u91n0HlQdTPrHK+gCipiw=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/licence_normal@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/licence_normal@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2366,7 +2366,7 @@
 			Ug3iIYQQWgvZY9S4UAqb0LDu+G1bF9kgFfPMaTDDb7Q=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/license_default@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/license_default@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2377,7 +2377,7 @@
 			a1wLidLvvju4zOjMauSNaDSl0ih+tgWZUT8WXj965Jg=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/me_arrow@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/me_arrow@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2388,7 +2388,7 @@
 			pJTadsP30fw359vfDEP9PsS0SqRtw2l04UbwMDxxoTY=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/meet_disconnect@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/meet_disconnect@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2399,7 +2399,7 @@
 			lEAs0dccCkBkFi126HOF2jUC9zaFdxj64rKt801Y6jU=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/member@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/member@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2410,7 +2410,7 @@
 			kZh+ddWNsohAod5PrbPgjpecedl4wVjkNDBwgoLBJ40=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/member@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/member@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2421,7 +2421,7 @@
 			r7pPRm7KWk8h3J5fZu8Tuc5fdmh2i71WC/7KHSTXzSM=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/nim_expand_down@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/nim_expand_down@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2432,7 +2432,7 @@
 			aqhjn7oRD5vEhIvHAMr7om8A/OPfuysfLpjV7Fw858g=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/nim_expand_up@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/nim_expand_up@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2443,7 +2443,7 @@
 			/FJlXZSEMvI5Yyn0+CgV9KSSRwsR0tahFI9aIoZJSL4=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/photo_picker.gif</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/photo_picker.gif</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2454,7 +2454,7 @@
 			ALxzblgwjOaVbMQcCtSwRJfHAmwuwvQHRXGrOHgfB1Q=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/rate_normal@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/rate_normal@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2465,7 +2465,7 @@
 			3+QmOpRfEIYMcm142G2qlXl9U0fRqkvGq2gF1Qk/e9Y=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/rate_normal@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/rate_normal@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2476,7 +2476,7 @@
 			mrs20C5OWsUQaxNmQwClRI6sogf79rc7SDYbPFvZFng=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/rate_select@2x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/rate_select@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2487,7 +2487,7 @@
 			OxRLWdZ0cCTvKcctpo/kIt20YGOhnwniBKlkwTUhRo4=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/rate_select@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/rate_select@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2498,7 +2498,7 @@
 			MJ3jf84ItMWZyZbrcDFscbTsJ1pGDogeBn6hd7j11q4=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/upload_fail@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/upload_fail@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2509,7 +2509,7 @@
 			VnXyIqTj27VCSNR2Sgi6KnhKrwibcKMK/vqpOZ7Onvs=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/voice_volume_1@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/voice_volume_1@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2520,7 +2520,7 @@
 			DLDhGPud5NEgWQsYU42B7GoX9WldTUTOj6HJmchcjUk=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/voice_volume_2@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/voice_volume_2@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2531,7 +2531,7 @@
 			ONkwZj9zLettFLaHXp/tWeANpva3+urDegVDJJmL3lE=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/voice_volume_3@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/voice_volume_3@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2542,7 +2542,7 @@
 			Ray3Hwgt0H8VJdomjZPWrNwqaXBdJ9UpyCLugsM9Z7w=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/wait_one@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/wait_one@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2553,7 +2553,7 @@
 			oiQ1fHFo+BMXQOXRK6W591oEODYxMPhninTLfIxv4Z8=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/wait_three@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/wait_three@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2564,7 +2564,7 @@
 			hq+IjuDVphdxnAWofg73halWsbC/OESk30D2YLLSHyA=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/wait_two@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/wait_two@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2575,7 +2575,7 @@
 			a61CguXZtOGDW3vQyXI8zLdm7af/BVWiQhihmc/vHIg=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/HMSDK.bundle/wb_loadfail@3x.png</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/HMSDK.bundle/wb_loadfail@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2586,7 +2586,7 @@
 			yswFcv+8leuGT44lSxYV1oPOw5vkBfhraRuwkkTte8M=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/Info.plist</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2597,7 +2597,7 @@
 			0qdBaUCyvILTQA5BT1VJ2g6gS0BQ5cdjkLToJIvdl+s=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/MedicItemView.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MedicItemView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2608,7 +2608,7 @@
 			OAfyxQj2OaOxfsXGo13YWU/nIzJtv1QoWI3lQs+w+TU=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/MedicItemView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MedicItemView.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2619,7 +2619,7 @@
 			pvicy7zH5HkTPRvQAbrWREzYMHmtqOcyZRcbtM/TPrc=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/MedicItemView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MedicItemView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2630,7 +2630,7 @@
 			UiBXgK3fYdXd0Hay3c+qbTWRbDfGnoSmEP/sU+94Ies=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/MedicStatus.storyboardc/Info.plist</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MedicStatus.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2641,7 +2641,7 @@
 			+wbCUTlwIMWDe9atjV0GNLOW7zn3PMK/rShDGKsmF54=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/MedicStatus.storyboardc/LXC-Q0-bne-view-uRS-pr-z6i.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MedicStatus.storyboardc/LXC-Q0-bne-view-uRS-pr-z6i.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2652,7 +2652,7 @@
 			zmrGRLQ1PIUUBnj3SoCa9wBDE531VwxkyP3URvkaSVM=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/MedicStatus.storyboardc/LXC-Q0-bne-view-uRS-pr-z6i.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MedicStatus.storyboardc/LXC-Q0-bne-view-uRS-pr-z6i.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2663,7 +2663,7 @@
 			kR3fso/KzMQbWTvcntThAv+8WByYQKrNmnq3omYJ+hQ=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/MedicStatus.storyboardc/LXC-Q0-bne-view-uRS-pr-z6i.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MedicStatus.storyboardc/LXC-Q0-bne-view-uRS-pr-z6i.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2674,7 +2674,7 @@
 			bYyOZNYiZix/dU5OH7ptHDaZ3piSlSWcS8Td3LaWNLI=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/MedicStatus.storyboardc/UIViewController-LXC-Q0-bne.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MedicStatus.storyboardc/UIViewController-LXC-Q0-bne.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2685,7 +2685,7 @@
 			P7NanM5NC3+/uP0Ef5WUCcaSEl/uVYM/5V1iSlIMQX0=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/MedicStatus.storyboardc/UIViewController-LXC-Q0-bne.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MedicStatus.storyboardc/UIViewController-LXC-Q0-bne.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2696,7 +2696,7 @@
 			QesrVt8+eSsp2Vy5l8oHUi5jPy7BguzE/kYYfOusQaA=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/MedicStatus.storyboardc/UIViewController-LXC-Q0-bne.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MedicStatus.storyboardc/UIViewController-LXC-Q0-bne.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2707,7 +2707,7 @@
 			WDZeqwQL4/GJ3C0EtQmIarBQwt6QSl7zNPF6iQIcb9o=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/MemberListView.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MemberListView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2718,7 +2718,7 @@
 			rCIlJP1SAHQuou9WB5DvI+RR5wiU5sd7dfWHWB6LZ80=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/MemberListView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MemberListView.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2729,7 +2729,7 @@
 			FpkQOLwpMqZGcGkMw7LRe1YhNnY+AvapiYvb0Ahlghc=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/MemberListView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/MemberListView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2740,7 +2740,7 @@
 			u6vis+xR7vGjE/mAyxfst3Sn6R3fNDA6wcS7l+hCuQU=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/PhotoGuide.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/PhotoGuide.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2751,7 +2751,7 @@
 			irVMtlVfeBo9bYX/wh3DxftMHJJFILzO5Cu/8IufRXo=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/PhotoGuide.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/PhotoGuide.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2762,7 +2762,7 @@
 			+RZGWelZoDHhk+RjZvv/TfoWi9bh326lx9ZsU69focE=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/PhotoGuide.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/PhotoGuide.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2773,7 +2773,7 @@
 			TKntcvykFoEC1rWQBxUd/HEeeLv2EjvvWVcV5ik6rCE=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/PhotoPermissionAlert.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/PhotoPermissionAlert.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2784,7 +2784,7 @@
 			YW8tiXdxPQ2CZ1/8jyM7frY1uapgRfomU4F8OwJPm4k=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/PhotoPermissionAlert.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/PhotoPermissionAlert.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2795,7 +2795,7 @@
 			5EkQd33l63BZfUloNHmYeMhboEyAS+IuULLk6ZjDR60=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/PhotoPermissionAlert.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/PhotoPermissionAlert.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2806,7 +2806,7 @@
 			aXvSi+n9LOOkzafDKW5HOpkXBcHUmb3MTHyMj7d3lUU=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/ProductTipView.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ProductTipView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2817,7 +2817,7 @@
 			RU7M5jQDq/8xDlUwImObFoLuC4nBcCSCbVmBqG7ilRw=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/ProductTipView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ProductTipView.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2828,7 +2828,7 @@
 			qRC+Vh6r4pYuYutNO18U03OLR55b4+sxi+c/1xzhT7w=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/ProductTipView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ProductTipView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2839,7 +2839,7 @@
 			jaCrUHsSImsUtgZwypsu0B8u6PQpRQiMUqV8xMKkBmA=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/ReSelectPremissView.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ReSelectPremissView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2850,7 +2850,7 @@
 			2uJDxTtNrl+ow8VYdSuBPEQvQHPu00YOzLzzTgbmX6M=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/ReSelectPremissView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ReSelectPremissView.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2861,7 +2861,7 @@
 			nD091QC4a+pShfgU/4Dy9xj2JUG9LK75ynpJSyPqgV0=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/ReSelectPremissView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/ReSelectPremissView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2872,7 +2872,7 @@
 			5+nyJUEZmsxXMy65iTqrfMrmqdd4tQge70MmnJEJy78=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/RealName.storyboardc/Info.plist</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/RealName.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2883,7 +2883,7 @@
 			594Pqh2v50AqSzzayYlVcvhRpk8TLKOl9k0Pg310i38=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/RealName.storyboardc/inP-8t-qNB-view-NmI-lS-I7Y.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/RealName.storyboardc/inP-8t-qNB-view-NmI-lS-I7Y.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2894,7 +2894,7 @@
 			LiWXh99hKREFCL8vjwPbUgo9pXUHbjwOemSwkG92rsc=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/RealName.storyboardc/inP-8t-qNB-view-NmI-lS-I7Y.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/RealName.storyboardc/inP-8t-qNB-view-NmI-lS-I7Y.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2905,7 +2905,7 @@
 			G6fqehftQ+7apnKk+xXrV1IlMiHzKO7T+cXyqZ6k2tE=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/RealName.storyboardc/inP-8t-qNB-view-NmI-lS-I7Y.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/RealName.storyboardc/inP-8t-qNB-view-NmI-lS-I7Y.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2916,7 +2916,7 @@
 			4YlNWkttz7f1TQ73HlWliwhGHi8cxegjpjHSNBt7xwQ=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/RealName.storyboardc/realName.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/RealName.storyboardc/realName.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2927,7 +2927,7 @@
 			x+xpW8R6QVcT4u0+lDYx7Zg49N7XeODQcpVy8xCjJoI=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/RealName.storyboardc/realName.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/RealName.storyboardc/realName.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2938,7 +2938,7 @@
 			oCV7fpMDYpMoEULQxFpmTIDNElMJoXXbjnam5B8eqh0=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/RealName.storyboardc/realName.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/RealName.storyboardc/realName.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2949,7 +2949,7 @@
 			1GA1ERv8N9aAsrLmJuSA9WG3Ek13icqErRxyzDWNsDw=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/Upload.storyboardc/Info.plist</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Upload.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2960,7 +2960,7 @@
 			223hBMr+RVn5M2t6KaeyIq0d6OW3qXbKSsSS0pNJsOQ=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/Upload.storyboardc/UIViewController-jgq-dG-SDa.nib/objects-12.3+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Upload.storyboardc/UIViewController-jgq-dG-SDa.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2971,7 +2971,7 @@
 			kQxVL/v1Vi1+UqM8AnG0XPJdUdo0oSbpRwOgCHwAS+8=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/Upload.storyboardc/UIViewController-jgq-dG-SDa.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Upload.storyboardc/UIViewController-jgq-dG-SDa.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2982,7 +2982,7 @@
 			UmfQREzHGStf2X80hxXb8aj1gTNIHh4IbqrloGrt8uM=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/Upload.storyboardc/UIViewController-jgq-dG-SDa.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Upload.storyboardc/UIViewController-jgq-dG-SDa.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2993,7 +2993,7 @@
 			V3I6v2JmOPqa/4phzfKuG6tELrBlbmlypfx6qXRDS4M=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/Upload.storyboardc/jgq-dG-SDa-view-Xv5-uR-Wlf.nib/objects-12.3+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Upload.storyboardc/jgq-dG-SDa-view-Xv5-uR-Wlf.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3004,7 +3004,7 @@
 			iGLDa2NwDxnwF5lfX+BAfxoSsjWMtiYy1t2fJjV6fZw=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/Upload.storyboardc/jgq-dG-SDa-view-Xv5-uR-Wlf.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Upload.storyboardc/jgq-dG-SDa-view-Xv5-uR-Wlf.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3015,7 +3015,7 @@
 			E2MwgPhqvk+zL9aapJSl9yFJ0dw0qf7aW6WTVI0cc3g=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/Upload.storyboardc/jgq-dG-SDa-view-Xv5-uR-Wlf.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Upload.storyboardc/jgq-dG-SDa-view-Xv5-uR-Wlf.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3026,7 +3026,7 @@
 			p+FKE7vMCHtX13cWYmcwFpbH1CEQO4M3NO6fGH0rpQ0=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/Video.storyboardc/1yM-In-WzS-view-hCB-L7-FyM.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Video.storyboardc/1yM-In-WzS-view-hCB-L7-FyM.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3037,7 +3037,7 @@
 			Gp8CNK7ill19Q09STbcBmMYWrASkMEbOjPHrtDPG5iw=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/Video.storyboardc/1yM-In-WzS-view-hCB-L7-FyM.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Video.storyboardc/1yM-In-WzS-view-hCB-L7-FyM.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3048,7 +3048,7 @@
 			mwjSpPeZymWadSfM95aYLoBJBSQvsp2i3bhTe1DdwEs=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/Video.storyboardc/Info.plist</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Video.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3059,7 +3059,7 @@
 			6mMsNFlnVcg+Ujri/pibp5zmh/tEphX8Sk1LmWtMpns=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/Video.storyboardc/UINavigationController-nJR-FK-Nsn.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Video.storyboardc/UINavigationController-nJR-FK-Nsn.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3070,7 +3070,7 @@
 			SgcXrC3TcfZnv+RaTtbbkrAtC95+zxh54Z5Uc0HwlBg=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/Video.storyboardc/UINavigationController-nJR-FK-Nsn.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Video.storyboardc/UINavigationController-nJR-FK-Nsn.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3081,7 +3081,7 @@
 			9gYT87DgrYs2F37P3/WhX3gloSkU8PXMsacADNbmnTc=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/Video.storyboardc/blocked.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Video.storyboardc/blocked.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3092,7 +3092,7 @@
 			IdUXP7oYKuYemJXwcgX46Si5BqXostsIQkL669l2Sks=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/Video.storyboardc/blocked.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Video.storyboardc/blocked.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3103,7 +3103,7 @@
 			jzgu9mLLhyIIagmAh1/fjQqR+E9Pka4piYjgSuzTr7Y=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/Video.storyboardc/eYM-0S-bXl-view-yXU-C3-IV4.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Video.storyboardc/eYM-0S-bXl-view-yXU-C3-IV4.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3114,7 +3114,7 @@
 			n+C9RwIcZ1AmQS+V1Gxn4j+T4TMAHGRT7egqLGWm+kk=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/Video.storyboardc/eYM-0S-bXl-view-yXU-C3-IV4.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/Video.storyboardc/eYM-0S-bXl-view-yXU-C3-IV4.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3125,7 +3125,7 @@
 			ON30cY9BjIT5deYnLo0Ws36H5i1TlcKz6/KRULrt3Jk=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/WBErrorView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/WBErrorView.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3136,7 +3136,7 @@
 			aQg2dbnB6OOZBzEpArmDwcwMSDJyE4nqEToCENNXt38=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/WBErrorView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/WBErrorView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3147,7 +3147,7 @@
 			VEC9YTLrE8yLVfZnlRGrbEeWLKZGWPc0HXazVrq9Ki8=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/WaitingView.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/WaitingView.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3158,7 +3158,7 @@
 			8IlG27kPmxubFErbCIF4XHRFwXM3Um2k3Xoqjrzdd/Q=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/WaitingView.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/WaitingView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3169,7 +3169,7 @@
 			ICpVT7R22tUWXl2o+G4OujcmkapDn5Bv4y2Z4N508uA=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/WebBrowser.storyboardc/Info.plist</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/WebBrowser.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3180,7 +3180,7 @@
 			CBmbzg2perQoiU25v/80i7EjJhDxWXPCYIxbDzOkoUE=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/WebBrowser.storyboardc/R4r-RW-Ik2-view-kp3-lk-DkN.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/WebBrowser.storyboardc/R4r-RW-Ik2-view-kp3-lk-DkN.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3191,7 +3191,7 @@
 			fzwnu0zbfPBfT3Gq4FeE6gdQFzPSh0/j0FAeqqMGGI4=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/WebBrowser.storyboardc/R4r-RW-Ik2-view-kp3-lk-DkN.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/WebBrowser.storyboardc/R4r-RW-Ik2-view-kp3-lk-DkN.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3202,7 +3202,7 @@
 			JUgA471fLlgwHw4ODNDcSuAGqxYtczzzSRZ5KNh6mUQ=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/WebBrowser.storyboardc/webbrowser.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/WebBrowser.storyboardc/webbrowser.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3213,7 +3213,7 @@
 			ChhgysFiGEw5TnveoXzhMZgJd6ZgGwdm5/1npxaM5J0=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/WebBrowser.storyboardc/webbrowser.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/WebBrowser.storyboardc/webbrowser.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3224,7 +3224,7 @@
 			SwlaXcQjMVq7bumrpxXu/dXIqXuXioEZmX5a7YRsRgU=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/_CodeSignature/CodeResources</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3235,7 +3235,7 @@
 			n5q6Hoav+g7EtGdONR94gOz9OedAzbP8IBdMqTztVYk=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/HD1-cR-dpx-view-feX-1D-1rH.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/HD1-cR-dpx-view-feX-1D-1rH.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3246,7 +3246,7 @@
 			JLNJA+z4KOkD8yjuNSuXE1i1GFChlldxAV+pP2q5Ox4=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/HD1-cR-dpx-view-feX-1D-1rH.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/HD1-cR-dpx-view-feX-1D-1rH.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3257,7 +3257,7 @@
 			DkrAGj98doBw4tUjjqRIIWRYFJcUHemfheHdM6svxA4=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/HD1-cR-dpx-view-feX-1D-1rH.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/HD1-cR-dpx-view-feX-1D-1rH.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3268,7 +3268,7 @@
 			eMd5JZV919aVw8ui8/9bt0ULX6c336Dj6VIvUoyYATo=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/Info.plist</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3279,7 +3279,7 @@
 			xvYz0h4DEorvVgYylPkii3LO+sBOgU9jyc+7dFhbY10=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/Wvh-CQ-zS2-view-abQ-Zf-EZJ.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/Wvh-CQ-zS2-view-abQ-Zf-EZJ.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3290,7 +3290,7 @@
 			Z20TjxrxxA3q62eQR28CVJhqj6z2nRx8MTza8oSezdE=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/Wvh-CQ-zS2-view-abQ-Zf-EZJ.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/Wvh-CQ-zS2-view-abQ-Zf-EZJ.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3301,7 +3301,7 @@
 			L2C18oH41oe1iV6FUzp69EyWcbHHCAXk7U/jNSc7k6k=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/Wvh-CQ-zS2-view-abQ-Zf-EZJ.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/Wvh-CQ-zS2-view-abQ-Zf-EZJ.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3312,7 +3312,7 @@
 			AB9SffmA4iqsEBOF39pi7+QQQtsMLuCCyVUCz143RUg=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/chatHome.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/chatHome.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3323,7 +3323,7 @@
 			HuzmjjF5ArwoN360mEcdLkUC2FKwtbm2HV3avaMx/bA=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/chatHome.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/chatHome.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3334,7 +3334,7 @@
 			a8bC4AmTrFYdgj6tqM5ojO+S+Vc49qAc3pKKkdBX1us=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/chatHome.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/chatHome.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3345,7 +3345,7 @@
 			IvNaNfUwgirVeY5ivPeutNW5Mh2RzYJAmvZ5E278dIo=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/chatSetting.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/chatSetting.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3356,7 +3356,7 @@
 			75U6HF27I2OlmpD1tDqrQtU6extTwuPHCL7qtzXD/OE=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/chatSetting.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/chatSetting.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3367,7 +3367,7 @@
 			m9Z2lTa9vJzQmFuF66U883SxLyDhD97nx3JVTo8UHvg=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/chatSetting.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/chatSetting.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3378,7 +3378,7 @@
 			wKbsgpt9J/j0IS7/M19jHKXDSDE1HQqipKU77WUeH1A=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/inviteCode.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/inviteCode.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3389,7 +3389,7 @@
 			vnzbjo/jiA/LYaTQKPqXaS7r8b+G7ZABHCBKxev3P3A=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/inviteCode.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/inviteCode.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3400,7 +3400,7 @@
 			6F9FSZQ9o1QTEMbWiHa6YH+sBVQLGBbycAG42abxbCs=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/inviteCode.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/inviteCode.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3411,7 +3411,7 @@
 			i63qus9HTgO3CNRniSxprNi905THmx9BzPU5rlYgkAI=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/uts-f3-3L2-view-Srw-hR-Pcp.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/uts-f3-3L2-view-Srw-hR-Pcp.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3422,7 +3422,7 @@
 			hi9kYGveBLQvLurjEkwPgYXmF95vpT9x7XY+RMtJL88=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/uts-f3-3L2-view-Srw-hR-Pcp.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/uts-f3-3L2-view-Srw-hR-Pcp.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3433,7 +3433,7 @@
 			IglYvH72tbq6MdZg8kJgub52BbNxvQpyFElcY7tnznI=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/chat.storyboardc/uts-f3-3L2-view-Srw-hR-Pcp.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/chat.storyboardc/uts-f3-3L2-view-Srw-hR-Pcp.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3444,7 +3444,7 @@
 			iOwM3u6hhGGodl9hw+5ello8zhi8mNm5zfSFffu/mko=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/comment.storyboardc/Info.plist</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/comment.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3455,7 +3455,7 @@
 			QJVIdgb5Od1FdjGNYW85QskS85dKCViLj2N0lZtHQoE=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/comment.storyboardc/UINavigationController-0Si-xm-B2v.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/comment.storyboardc/UINavigationController-0Si-xm-B2v.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3466,7 +3466,7 @@
 			RU/1mBp5v0SpxwOVIPB+h3GVbJL/faVBBBHCuPtpaXo=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/comment.storyboardc/UINavigationController-0Si-xm-B2v.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/comment.storyboardc/UINavigationController-0Si-xm-B2v.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3477,7 +3477,7 @@
 			ENjB1qhzdGsGPwLXbXoscJ13Fz0JRKkdMdx32WcjkKg=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/comment.storyboardc/UINavigationController-0Si-xm-B2v.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/comment.storyboardc/UINavigationController-0Si-xm-B2v.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3488,7 +3488,7 @@
 			mWSHbdYqHE/t6mkvpwGaTy6ewF54bSoaZNn2xGysuGg=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/comment.storyboardc/wzQ-GF-Pq0-view-cCD-m9-X4Z.nib/objects-11.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/comment.storyboardc/wzQ-GF-Pq0-view-cCD-m9-X4Z.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3499,7 +3499,7 @@
 			scZfug2UeAsJLU5mgteFNLvnQHMg0oY7abRYczFH+dk=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/comment.storyboardc/wzQ-GF-Pq0-view-cCD-m9-X4Z.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/comment.storyboardc/wzQ-GF-Pq0-view-cCD-m9-X4Z.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3510,7 +3510,7 @@
 			WhYusFrM21RJUYTI3RH7EKgo7h+CNAtTmKoLKTGLrDU=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/comment.storyboardc/wzQ-GF-Pq0-view-cCD-m9-X4Z.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/comment.storyboardc/wzQ-GF-Pq0-view-cCD-m9-X4Z.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3521,7 +3521,7 @@
 			FI6mdfy1n4A/euuprREwePLahuqGyu5tJ1yPLQj0b6U=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/member.storyboardc/Info.plist</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/member.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3532,7 +3532,7 @@
 			/CfIvMqugfXG6kERTHiW3ztVNfDADVcp9Js0955nLb8=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/member.storyboardc/addMember.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/member.storyboardc/addMember.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3543,7 +3543,7 @@
 			WUnr3NDqVYwtOiP9siyeVNJdls0YMk0DB1v6S3W/dlA=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/member.storyboardc/addMember.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/member.storyboardc/addMember.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3554,7 +3554,7 @@
 			fuwEDJbd+1PB+SRdpsTBIJHu8VjqJTlmOMHbV2dXna0=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/member.storyboardc/profit.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/member.storyboardc/profit.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3565,7 +3565,7 @@
 			iLYi9F/Cm8WO9qWy5CoQDFV5XFU+1hscIL/9KZyGcsI=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/member.storyboardc/profit.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/member.storyboardc/profit.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3576,7 +3576,7 @@
 			EQTOnd5hoET3jJDfd6YOES74GeSN1hWF6/JzMiTUI7U=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/member.storyboardc/xsQ-4A-MAW-view-Qcf-gy-1uQ.nib/objects-13.0+.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/member.storyboardc/xsQ-4A-MAW-view-Qcf-gy-1uQ.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3587,7 +3587,7 @@
 			ZIdBUFYrytvZCzeekP8FkDEwVJNd/xTgfaRPtHknPrs=
 			</data>
 		</dict>
-		<key>Frameworks/HHDoctorSDK.framework/member.storyboardc/xsQ-4A-MAW-view-Qcf-gy-1uQ.nib/runtime.nib</key>
+		<key>Frameworks/HYSDoctorVideoTool.framework/member.storyboardc/xsQ-4A-MAW-view-Qcf-gy-1uQ.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -3613,11 +3613,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jB/y+hlVXyghJW4bBYjSzKJmDrg=
+			SsM0qHsVV4TnB9ohY3J1/zJEPBA=
 			</data>
 			<key>hash2</key>
 			<data>
-			mij1rGONLDr9o7Ay6FEErG5/wrTPh6Bf7ppB3ENVlZE=
+			VEw+uqqVE5OmIrpLLmiu00Jt2REvyIbOOJ0ODM39WoQ=
 			</data>
 		</dict>
 		<key>Frameworks/NIMAVChat.framework/_CodeSignature/CodeResources</key>
@@ -3646,11 +3646,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/BXM3zkmKj09V1AZKnAuMNaSzkM=
+			NJ0Pg267Y5C/N/sI7m2TXaDWm1g=
 			</data>
 			<key>hash2</key>
 			<data>
-			CwxLWdX1I0Zc4NUYgzhZDio4JFf8wjxrM0r1bGVbqg0=
+			3dk/3PltiFWIJ4W8xRiUxNUgCR/zoA1WKMirLTpbmWM=
 			</data>
 		</dict>
 		<key>Frameworks/NIMSDK.framework/_CodeSignature/CodeResources</key>
@@ -3679,11 +3679,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uRwKTYh4LWOqJM8q7WrgP6u9CjI=
+			Dyol6E9F2j0eCij2KjD98lA8Fbo=
 			</data>
 			<key>hash2</key>
 			<data>
-			jOw4F73oTf/wjm3WmaEVU/1Yb9ctGYxM9d8xLNHHkaI=
+			En3VEKh5mkIjkYiAIj0Mq7goEYwZGPXaLILb3GE32sM=
 			</data>
 		</dict>
 		<key>Frameworks/NMC.framework/NetEaseWEShader.metallib</key>
@@ -3734,11 +3734,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RSOxKLQsliCYFATmK/FxEA3SUoU=
+			groTt8D4kTpGPL2VYvsU4h9CKbQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			lY3CHburyocglo9PHnhkOY0SBov75vpnjd8tyXDW9c4=
+			UA8Ak0kwJGAb+gwgRw4s+wyKUjvx+S3tsMC2+IC2TqA=
 			</data>
 		</dict>
 		<key>Frameworks/NMCBasicModuleFramework.framework/_CodeSignature/CodeResources</key>
@@ -3767,11 +3767,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2Bm8j/S3ucW3fpoThEUpG0CEU38=
+			L2VoR4uUg340FRS21EbIS5DBUdA=
 			</data>
 			<key>hash2</key>
 			<data>
-			LssiiLr6RvRlyof8HbIQSka3ak+PZMFliDH+E78WIN8=
+			Xylczjl9T6sGpw29EOebgwMIttYtPSys4mNSooGG3wE=
 			</data>
 		</dict>
 		<key>Frameworks/SecurityKit.framework/SecurityKit.bundle/Info.plist</key>
@@ -3833,11 +3833,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			blc6VfBIuLKq2RKTput37l2AofA=
+			cSbY0oMuAaRGvw0xx1FOZBD5GvU=
 			</data>
 			<key>hash2</key>
 			<data>
-			TbpJbO+x5+0UGgEJ1I2Okc+jReKawAncyp+ATQU1m8A=
+			pOKuXrPiGiXf7lD/6iv07S+/eqNlQBMn3GmnfZrgK78=
 			</data>
 		</dict>
 		<key>Frameworks/SecurityKit.framework/_CodeSignature/CodeRequirements</key>
@@ -3855,11 +3855,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			x/9H9UITOeC+ei8k1/W6/7MQw+I=
+			CuIUcTyBSo/cIra4cwC+h8JrdwI=
 			</data>
 			<key>hash2</key>
 			<data>
-			6UgLTKizvqlcHemgnhKFrCiDzywJK36qD64XkpJi3Es=
+			RqP6/biGuqUuLgZSAAHzPOCfr3EPA+9DTcdXeg0/b10=
 			</data>
 		</dict>
 		<key>Frameworks/SecurityKit.framework/_CodeSignature/CodeResources</key>
@@ -3877,11 +3877,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RkxFw3VvcV+R4b4rXl+L+MkD4os=
+			WvUygsIvx7TlZrgVv46M4IDfBPs=
 			</data>
 			<key>hash2</key>
 			<data>
-			HtOK53Rv2N1nhjvsfFHdr62eGBcXiO4jh+rsas7aqMY=
+			EDcPUywXRMp/xPgU1OtIevESkrAE4fIY8QWxjxJTzI8=
 			</data>
 		</dict>
 		<key>Headers/HYSDoctor.h</key>
